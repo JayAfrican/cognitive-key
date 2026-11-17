@@ -54,7 +54,7 @@ The specialised instruments for the deconstruct step. Each has its own canonical
 | **Cross-pollination intake** | A pair said to be opposites, or the same | Blind-tested: Campaign A, 18 runs |
 | **Recoherence** | One word with many senses | 5 runs, none blind |
 | **Sounding** | A whole system | 3 runs |
-| **Jargon Breaker** | Language that won't say who did what to whom | 4 runs, none blind |
+| **Jargon Breaker** | Language that won't say who did what to whom | 3 logged runs, none blind |
 | **Axis Search** | Two unrelated things: is there one dimension under both? | 1 run, stopped at its first check |
 
 ## What would show it's useless · from §0.7, RULED 2026-09-25
