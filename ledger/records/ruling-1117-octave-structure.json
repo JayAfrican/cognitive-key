@@ -1,0 +1,25 @@
+{
+  "id": "ruling-1117-octave-structure",
+  "body": "Read back as sections 1–3; JayArr chose 'Yes, rule 1–3', 2026-11-17. The notes and stalls come from his The Loop (Primer).",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "framework/octave.md",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "claim-octave-purpose"
+    },
+    {
+      "rel": "supports",
+      "to": "claim-octave-container"
+    },
+    {
+      "rel": "supports",
+      "to": "ruling-1011-octave-describes-runner"
+    }
+  ],
+  "plain": "framework/octave.md sections 1–3 are the master description of the Octave: what it is, its standing, and the eight notes with their stalls.",
+  "privacy": "none",
+  "type": "ruling"
+}

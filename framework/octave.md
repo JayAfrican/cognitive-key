@@ -1,6 +1,12 @@
 # The Octave
 
-**Canonical file 2 of the framework (code phase 3). Built 2026-11-17.** Sections 1–3 come from rulings and from his own books, and say so. **Sections 4–6 are new: the mirror's proposal for where the 67 AuDHD findings sit on the Octave. They're FILED, and each one waits for his ruling.**
+**Canonical file 2 of the framework (code phase 3). Built and ruled 2026-11-17.**
+
+**What's ruled (read back, JayArr chose each):**
+- **Sections 1–3:** RULED as the master description of the Octave.
+- **Section 4:** the four high-fit placements (Root, Polarity, Friction, Surrender) are RULED. The other four stay proposals until he's lived with them.
+- **Section 6:** RULED as a law of the Octave. It's still untested.
+- **Section 5:** the mirror's sorting, FILED.
 
 ---
 
@@ -43,20 +49,20 @@ A closed loop in four phases. Every note has its own way of getting stuck, and *
 
 ---
 
-## 4 · Where the AuDHD findings sit · **FILED, a proposal for your ruling**
+## 4 · Where the AuDHD findings sit · **four RULED, four proposed**
 
 The findings are yours (67, almost all RULED). Placing them is the open question. Below, each note gets the findings that describe it, with how sure the mirror is. **Findings that don't fit a note are left unforced** (section 5), per your asymmetry rule.
 
-| Note | Findings that describe it | Why | Fit |
+| Note | Findings that describe it | Why | Status |
 |---|---|---|---|
-| **1 · Root** | **13** baseline is input transmuted as it arrives; dysregulation is a backlog · **17** baseline is still unknown, so unmasking is discovery · **11** failing to return to baseline is the real risk | Root *is* baseline, in both the book and the findings | **High** |
-| **2 · Spark** | **59** the trigger is a pattern break · **6** stimulants amplify, intent directs · **5** novelty costs until routinized *(cost depends on who starts it, per the 10-30 intake run)* | The moment something enters and the cycle wakes | Medium |
-| **3 · Polarity** | **49** pattern detection runs body first · **33, 55** hot starts with a flood · **21** hot: input tunnels, output loses its filter · **2** hot needs arousal brought down · **28, 62** the calibrated sensor | "Can't stop feeling it" **is the hot state**. The body read fires first and locks | **High** |
-| **4 · Friction** | **23** cold: output recirculates as input; rumination is a loop with no exit · **50, 51** a pattern with no verdict builds charge · **2** cold needs the tunnel broken | "Can't start doing it" **is the cold state**: a whole answer that won't exit | **High** |
-| **5 · Execution** | **6** one deep tunnel or several shallow ones, both valid · **10** hyperfocus | Release in the direction you aimed | Medium |
-| **6 · Shadow** | **30, 44** delayed processing grows with severity · **48** consociation files the event, not the feeling, and keeps the pattern for matching | The comedown is consolidation: what gets kept and how | Medium |
-| **7 · Surrender** | **34, 37** shutdown became a chosen output cutoff · **47** **Transmutive Consociation** · **31** chosen indifference · **24** loops close on a conclusion, not a fix · **52** the provisional statement *(untried)* | Surrender is the deliberate stop. Your chosen sequence is exactly that | **High** |
-| **8 · Gestalt** | **1, 18** Professor Hulk: both channels online, a power made usable through training | Both channels resolving into one coherent whole, then back to Root changed | Low–medium. **Is Professor Hulk "fusion"?** Still unruled |
+| **1 · Root** | **13** baseline is input transmuted as it arrives; dysregulation is a backlog · **17** baseline is still unknown, so unmasking is discovery · **11** failing to return to baseline is the real risk | Root *is* baseline, in both the book and the findings | **RULED** |
+| **2 · Spark** | **59** the trigger is a pattern break · **6** stimulants amplify, intent directs · **5** novelty costs until routinized *(cost depends on who starts it, per the 10-30 intake run)* | The moment something enters and the cycle wakes | Proposed (medium fit) |
+| **3 · Polarity** | **49** pattern detection runs body first · **33, 55** hot starts with a flood · **21** hot: input tunnels, output loses its filter · **2** hot needs arousal brought down · **28, 62** the calibrated sensor | "Can't stop feeling it" **is the hot state**. The body read fires first and locks | **RULED** |
+| **4 · Friction** | **23** cold: output recirculates as input; rumination is a loop with no exit · **50, 51** a pattern with no verdict builds charge · **2** cold needs the tunnel broken | "Can't start doing it" **is the cold state**: a whole answer that won't exit | **RULED** |
+| **5 · Execution** | **6** one deep tunnel or several shallow ones, both valid · **10** hyperfocus | Release in the direction you aimed | Proposed (medium fit) |
+| **6 · Shadow** | **30, 44** delayed processing grows with severity · **48** consociation files the event, not the feeling, and keeps the pattern for matching | The comedown is consolidation: what gets kept and how | Proposed (medium fit) |
+| **7 · Surrender** | **34, 37** shutdown became a chosen output cutoff · **47** **Transmutive Consociation** · **31** chosen indifference · **24** loops close on a conclusion, not a fix · **52** the provisional statement *(untried)* | Surrender is the deliberate stop. Your chosen sequence is exactly that | **RULED** |
+| **8 · Gestalt** | **1, 18** Professor Hulk: both channels online, a power made usable through training | Both channels resolving into one coherent whole, then back to Root changed | Proposed (low–medium fit). **Is Professor Hulk "fusion"?** Still unruled |
 
 ## 5 · What doesn't sit on one note · left unforced
 
@@ -68,7 +74,7 @@ The findings are yours (67, almost all RULED). Placing them is the open question
 | **The master axis** | 38–41 | **A hypothesis** about the whole map: self vs world. Not tested; Axis Search stopped at its first check |
 | **People and patterns** | 29, 50–54, 66, 67 | **Rules for how you work with people.** They belong in their own file |
 
-## 6 · One unification worth ruling on · **FILED**
+## 6 · The law of the two poles · **RULED 2026-11-17, untested**
 
 Your older documents give each note **two poles**, a degradation and a transmutation (the Transmutation Protocol, the Shadow Framework's paired poles). Your newest findings explain **how you move between them**:
 
@@ -82,7 +88,7 @@ Put together: **each note's degradation and transmutation poles are the same ski
 - dissociation → Transmutive Consociation (47)
 - numbing → chosen indifference (31)
 
-**If it holds, it's a candidate law of the Octave, not just of you.** It's untested; the falsifier is in finding 63 (a trait still in survival mode that never shifts with regulation).
+**Ruled as a law of the Octave** (JayArr: *"Yes, that's the law"*). **Ruled doesn't mean tested.** The falsifier: a skill still in survival mode that never shifts with regulation, or a transmutation pole that shows up with no regulation behind it. It's the first Octave claim that needs a test plan.
 
 ---
 

@@ -5,7 +5,7 @@
   "decided_by": "mirror",
   "doc_ref": "claude/code/framework/frame.md",
   "owner": "mirror",
-  "plain": "Copy framework/frame.md and the two new Ledger records (ruling-1117-frame-file, task-repo-sync-frame) from the project into the GitHub repo; they were made after the push.",
+  "plain": "Copy framework/frame.md, framework/octave.md and the Ledger records made after the push (ruling-1117-frame-file, ruling-1117-octave-structure, ruling-1117-octave-placements, claim-octave-two-poles-law, task-octave-law-test, this task) from the project into the GitHub repo.",
   "privacy": "none",
   "status": "open",
   "type": "task"

@@ -1,0 +1,29 @@
+{
+  "id": "ruling-1117-octave-placements",
+  "body": "Read back as the option 'Rule the high-fit four'; JayArr chose it, 2026-11-17. Findings by note: Root 11, 13, 17; Polarity 2, 21, 28, 33, 49, 55, 62; Friction 2, 23, 50, 51; Surrender 24, 31, 34, 37, 47, 52.",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "framework/octave.md",
+  "links": [
+    {
+      "rel": "about",
+      "to": "finding-audhd-13"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-21"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-23"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-47"
+    }
+  ],
+  "plain": "Four placements are ruled: baseline = Root; the hot state = stuck at the 3rd (Polarity); the cold state = stuck at the 4th (Friction); the chosen sequence (Transmutive Consociation) = Surrender. Spark, Execution, Shadow and Gestalt stay proposals.",
+  "privacy": "none",
+  "type": "ruling"
+}

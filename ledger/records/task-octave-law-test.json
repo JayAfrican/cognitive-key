@@ -1,0 +1,12 @@
+{
+  "id": "task-octave-law-test",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "framework/octave.md §6",
+  "owner": "mirror",
+  "plain": "Write a test plan for the two-poles law (claim-octave-two-poles-law): what would show a skill's pole tracking regulation, recorded before the observations.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

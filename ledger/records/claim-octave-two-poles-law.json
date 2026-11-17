@@ -1,0 +1,27 @@
+{
+  "id": "claim-octave-two-poles-law",
+  "body": "Proposed by the mirror from findings 63–65; JayArr: 'Yes, that's the law', 2026-11-17. Untested. Examples in his findings: hypervigilance → calibrated sensor (28); shutdown → chosen cutoff (34, 37); dissociation → Transmutive Consociation (47); numbing → chosen indifference (31). Falsifier: a skill still in survival mode that never shifts with regulation, or a transmutation pole showing up with no regulation behind it.",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "framework/octave.md §6",
+  "evidence_kind": "synthesis of his findings; untested",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "finding-audhd-63"
+    },
+    {
+      "rel": "derived_from",
+      "to": "finding-audhd-64"
+    },
+    {
+      "rel": "derived_from",
+      "to": "finding-audhd-65"
+    }
+  ],
+  "plain": "Law of the Octave: each note's degradation and transmutation poles are the same skill, pointed at protection or at choice. Regulation decides which one shows up, and practice moves the line.",
+  "privacy": "none",
+  "status": "ruled, untested: needs a test plan",
+  "type": "claim"
+}
