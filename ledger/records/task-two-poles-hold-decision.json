@@ -1,0 +1,12 @@
+{
+  "id": "task-two-poles-hold-decision",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/two-poles-law.md",
+  "owner": "jayarr",
+  "plain": "Decide whether to lift the SAFETY HOLD for one test only: the two-poles law (4 weeks, one line a day). The plan is written and gated.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

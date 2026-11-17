@@ -1,0 +1,18 @@
+{
+  "id": "test-two-poles-law",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/two-poles-law.md",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-octave-two-poles-law"
+    }
+  ],
+  "plain": "Two-poles law test: does the transmutation pole show up more on regulated days? Planned, not run.",
+  "privacy": "none",
+  "status": "open (gated: SAFETY HOLD)",
+  "type": "run"
+}
