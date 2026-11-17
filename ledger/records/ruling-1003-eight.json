@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-eight",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 B3",
+  "links": [
+    {
+      "rel": "about",
+      "to": "ruling-0925-frame"
+    }
+  ],
+  "plain": "The eight-book series stands on its own. 'Eight is just the number I paused on; nine was next.' The eight is closed as a question.",
+  "privacy": "none",
+  "type": "ruling"
+}

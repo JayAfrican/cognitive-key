@@ -1,0 +1,16 @@
+{
+  "id": "test-campaign-c",
+  "custody": "CORROBORATED",
+  "date": "2026-09-10",
+  "decided_by": "blind",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "recorded_in",
+      "to": "entry-045"
+    }
+  ],
+  "plain": "Campaign C: the confidence constant was a reporting artefact.",
+  "privacy": "none",
+  "type": "run"
+}

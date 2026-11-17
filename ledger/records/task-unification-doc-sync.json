@@ -1,0 +1,12 @@
+{
+  "id": "task-unification-doc-sync",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "audhd-findings-unification.md",
+  "owner": "mirror",
+  "plain": "Bring the project's audhd-findings-unification.md up to 67 findings (it records 45).",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

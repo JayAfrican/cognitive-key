@@ -1,0 +1,18 @@
+{
+  "id": "run-recoherence-20261015-dissociation",
+  "body": "Input: 'dissociation', psychological senses. Pruned before descent (1a): chemistry dissociation, neuropsychology 'double dissociation', ordinary-English 'dissociate from' (cross-field uses of the Latin root); pop colloquial 'dissociating' (a blend of absorption and detachment); the operator's own phenomena (not established senses). Senses (8): Janet's desagregation; DSM-5 umbrella; detachment/depersonalization (Holmes et al. 2005); derealization (DSM-5); compartmentalization (Holmes et al. 2005); peritraumatic dissociation (trauma research); absorption (Tellegen; DES subscale); emotional numbing (PTSD literature). Descent: F0 'something normally connected comes apart' failed exclusion (a broken plate, an unplugged lamp). F1 'part of ongoing experience runs without its felt connection to the self' admitted alien hand syndrome. Floor set one rung up: 'Through a reversible, functional disconnection, part of a person's ongoing experience keeps running without its felt connection to the self.' Exclusion at floor: automatic skilled action (still owned), ordinary forgetting (not ongoing), alien hand (structural) all excluded. Lower rung (F1 without 'functional') fails exclusion, so the floor stands. Plain-words check passed. Inclusion: 7/8; absorption is the extension (background unattended, not disowned; consistent with taxometric work separating normal absorption from pathological dissociation). Axis: which link is cut, self-to-inner (body, feeling, memory) vs self-to-world; sign flips between detachment (self unreal, world real) and derealization (world unreal, self real). Derived: a chosen shutdown, observe, conclude sequence keeps the link and completes the experience, so it falls outside the floor and stands as dissociation's inverse on two axes (automatic vs chosen; disconnected vs connected). Angle not tried: ritual trance and possession states (anthropology; DSM-5 possession-form), which can be voluntary and would pressure-test the inverse claim. Falsifier: an established psychological sense of dissociation with no felt disconnection from the self, or standard clinical use of the term for structural-damage cases.",
+  "custody": "FILED",
+  "date": "2026-10-15",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "plain": "Ran Recoherence on 'dissociation' (psychological senses): a theme holds for 7 of 8 senses, the axis is which link to the self is cut (inner vs world), and a chosen shutdown-observe-conclude sequence falls outside the floor as its inverse.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-24, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "recoherence",
+  "type": "run",
+  "verdict": {
+    "value": "THEME FOUND (psychological scope; 7/8; absorption as extension)",
+    "vocabulary": "recoherence"
+  }
+}

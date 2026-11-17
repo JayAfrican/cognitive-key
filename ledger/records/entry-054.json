@@ -1,0 +1,14 @@
+{
+  "id": "entry-054",
+  "custody": "MIXED",
+  "date": "2026-09-24",
+  "decided_by": "mixed",
+  "doc_ref": "inversion-log.md §40",
+  "plain": "Constraint 6's scope, and the meaning-chain theory · one SUPPORTED, one OVERSTATED, one STOP",
+  "plain_source": "title",
+  "privacy": "none",
+  "register_basis": "\"JayArr is right\" on the scope; the theory's verdicts and the constraint-17 stop are the mirror's",
+  "seam": "RULED at §40a, rest MIXED",
+  "type": "entry",
+  "verdict_text": "OVERSTATED"
+}

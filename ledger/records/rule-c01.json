@@ -1,0 +1,11 @@
+{
+  "id": "rule-c01",
+  "body": "\"Please go ahead without queuing me for permission.\"",
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §4 constraint 1",
+  "plain": "\"Please go ahead without queuing me for permission.\"",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

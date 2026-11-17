@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-m-p2",
+  "confidence": 70,
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "Harmed-not-told plus bosses-told is the most common pattern.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "FAILED",
+    "vocabulary": "prediction"
+  }
+}

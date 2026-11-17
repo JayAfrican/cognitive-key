@@ -1,0 +1,11 @@
+{
+  "id": "rule-c05",
+  "body": "NLP influence scripts aimed at third parties stay excluded.",
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 5",
+  "plain": "NLP influence scripts aimed at third parties stay excluded.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

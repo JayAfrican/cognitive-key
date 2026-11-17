@@ -1,0 +1,22 @@
+{
+  "id": "entry-066",
+  "custody": "MIXED",
+  "date": "2026-10-05",
+  "decided_by": "jayarr",
+  "doc_ref": "inversion-log.md §52",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "about",
+      "to": "test-campaign-a"
+    },
+    {
+      "rel": "derived_from",
+      "to": "ruling-1005-car-source"
+    }
+  ],
+  "plain": "Campaign A's raw record recovered and checked: it matches the filed scoring; two counts were too low.",
+  "privacy": "none",
+  "seam": "Source call is JayArr's; the check and the corrections are the mirror's",
+  "type": "entry"
+}

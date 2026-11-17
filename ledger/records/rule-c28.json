@@ -1,0 +1,18 @@
+{
+  "id": "rule-c28",
+  "body": "Source or scaffolding is decided case by case, by JayArr. Every time outside material — or material he supplies — arrives, prompt him for certainty: is it a source or scaffolding? Treat it as neither until he answers. No default in either direction. (2026-09-17 ruling, first worded as \"a conversation outside this project is thinking scaffolding — not a source, not a run, not a record\"; promoted 2026-10-03, JayArr: \"You have to prompt me every time which is which, as it should be anyway\" · \"prompts for clarity.\" Clarified 2026-10-07, JayArr: \"the scaffold ruling should be case by case basis meaning im prompted for certainty on whether its scaffolding or a source.\" The old first sentence set a default — outside = scaffolding — and that default is withdrawn. RULED. Resolves the §0a / cross-pollination contradiction the same way: neither default applies — ask.)",
+  "custody": "RULED",
+  "date": "2026-10-07",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §4 constraint 28",
+  "links": [
+    {
+      "rel": "clarified_by",
+      "to": "ruling-1007-case-by-case"
+    }
+  ],
+  "plain": "Source or scaffolding is decided case by case: prompt JayArr every time material arrives, with no default either way.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

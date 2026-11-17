@@ -1,0 +1,28 @@
+{
+  "id": "run-cross-pollination-intake-20261030-thinking-function-vs-analytical",
+  "body": "0 INTAKE. Anomaly: Dimensional scores the Thinking function Low (2) and Feeling High (4), yet the facets Analytical Thinking and Logical are High (4); the AuDHD findings say an analytical mask formed through compensation (#15). Expected: a real tension about how he decides (contradicted by the sheet; prediction discarded). Arrived from: the Dimensional x AuDHD comparison, 2026-10-30. 1 LEVEL. Title: 'thinking'. Plot: the Thinking function is a Jungian-type decision preference (impersonal logic vs values as the deciding criterion); Analytical Thinking and Logical describe a reasoning style he reports using. Different referents. Structural check on the app: every cognition pair sums to 6 (Introversion 1 / Extroversion 5, Sensing 1 / Intuition 5, Thinking 2 / Feeling 4, Judging 2 / Perceiving 4), which is consistent with bipolar scoring of each pair (items not seen). Outside literature: the MBTI thinking-feeling scale tracks Big Five Agreeableness rather than reasoning ability (McCrae & Costa 1989; not re-checked this session). Theme: none shared beyond the word. Exclusion test cannot be completed at theme level. STOP: title-level coincidence. 4b (noted, not run as a verdict): his own account (decides by feeling, analyses as a trained skill) has logic-use and values-deciding both high at once, which a bipolar T-F scale cannot record. 6 ROUTING. Verdict: no mapping; tension dissolved at the level check. Admissible as a lexicon note: 'Thinking function' (Dimensional) does not mean analytical ability. What it changes: the T2 tension in the Overlap tab is withdrawn; finding #15 is untouched. Does not license: 'analysis isn't really me'. Trap: reading the Low Thinking score as evidence the analytical mask is fake. Falsifier: if Dimensional's Thinking-function items turn out to ask about reasoning ability rather than deciding criteria, the title-level verdict fails (the items were not seen).",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-15"
+    }
+  ],
+  "plain": "Ran intake on 'Thinking function Low' vs 'Analytical Thinking and Logical High' (and the analytical mask, #15): the match is title-level only; Dimensional's Thinking function is a decision preference, not reasoning ability, so there is no contradiction.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "cross-pollination-intake",
+  "type": "run",
+  "verdict": {
+    "value": "TITLE-LEVEL COINCIDENCE (stopped at level check; no mapping)",
+    "vocabulary": "inversion"
+  }
+}

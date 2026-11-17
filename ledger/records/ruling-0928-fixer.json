@@ -1,0 +1,20 @@
+{
+  "id": "ruling-0928-fixer",
+  "custody": "RULED",
+  "date": "2026-09-28",
+  "decided_by": "jayarr",
+  "doc_ref": "campaign-d-results.md §4a",
+  "links": [
+    {
+      "rel": "about",
+      "to": "entry-059"
+    },
+    {
+      "rel": "about",
+      "to": "claim-fixer-benefit"
+    }
+  ],
+  "plain": "The fix is slow or never happens when the people who can fix it aren't the people who benefit from fixing it. Like the board.",
+  "privacy": "none",
+  "type": "ruling"
+}

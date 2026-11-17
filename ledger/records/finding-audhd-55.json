@@ -1,0 +1,23 @@
+{
+  "id": "finding-audhd-55",
+  "body": "AuDHD finding 55 of 67, from JayArr's Oct 19 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Research tags checked 2026-11-17 (see 'verified' and 'research_check').",
+  "custody": "RULED",
+  "date": "2026-10-19",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence": "Published research: Bower 1981, American Psychologist 36:129 (mood and memory); hippocampal pattern completion (Rolls 2013, Frontiers in Systems Neuroscience; Yassa & Stark 2011, Trends in Neurosciences)",
+  "evidence_kind": "research + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "Hot starts with a flood. In pattern explosions the flood is internal: pattern completion and mood-matched recall.",
+  "privacy": "none",
+  "research_check": "Verified. Calling the flood 'pattern completion' is his model built on these, not their finding.",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: research tags checked by the mirror against named published sources"
+}

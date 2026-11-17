@@ -1,0 +1,23 @@
+{
+  "id": "finding-audhd-52",
+  "body": "AuDHD finding 52 of 67, from JayArr's Oct 19 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Proposed in session; not yet tried in practice. Research tags checked 2026-11-17 (see 'verified' and 'research_check').",
+  "custody": "RULED",
+  "date": "2026-10-19",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence": "Published research: Lieberman et al. 2007, Psychological Science 18:421 (affect labeling dampens amygdala response); Carrère & Gottman 1999, Family Process (harsh start-up)",
+  "evidence_kind": "research + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "The fix is a provisional pattern statement that reports the signal, not the verdict.",
+  "privacy": "none",
+  "research_check": "Verified. Applying them to a 'provisional pattern statement' is his inference, and the fix is untried in practice.",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: research tags checked by the mirror against named published sources"
+}

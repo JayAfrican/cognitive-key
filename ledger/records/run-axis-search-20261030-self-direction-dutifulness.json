@@ -1,0 +1,24 @@
+{
+  "id": "run-axis-search-20261030-self-direction-dutifulness",
+  "body": "FIRST GENERATIVE RUN of axis-search (UNTESTED tool): output is generated, unconfirmed. INPUT: A = Self-direction (Schwartz value, Very high, #2 ranked); B = Dutifulness (personality facet, Very low). No claimed relation by JayArr; the mirror grouped both under a candidate 'source axis' in the Overlap tab, so the novelty bar is higher. C1 positions: candidate X = Schwartz's higher-order Openness to change vs Conservation. A sits at the Openness-to-change end by definition. B is a trait, not a value; placing it at the Conservation end needs its correlation with Conscientiousness and conformity/security values (Roccas et al. 2002), not re-checked this session. C1 could not be written without that hedge, and an axis about people gets no benefit of the doubt. STOP AT C1. C2-C6 not run. What it changes: nothing is established about the Framework's 'source' axis. The cleaner test of 'source' (what drives the response: self vs world) is against locus of control (Rotter 1966) or SDT causality orientations (Deci & Ryan 1985); Dimensional's Internal Locus of Control is locked. Falsifier for the stop: a checked source placing Dutifulness on the Conservation end would let C1 pass and the run continue.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    }
+  ],
+  "plain": "First generative Axis Search: Self-direction (value, Very high) and Dutifulness (facet, Very low). Dutifulness could only be placed on the candidate axis through a correlation not re-checked this session, so it stopped at C1.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "first run (first generative axis-search run; UNTESTED tool)",
+  "tool": "axis-search",
+  "type": "run",
+  "verdict": {
+    "value": "STOPPED AT C1",
+    "vocabulary": "axis"
+  }
+}

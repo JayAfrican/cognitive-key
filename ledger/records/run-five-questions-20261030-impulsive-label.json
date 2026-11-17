@@ -1,0 +1,24 @@
+{
+  "id": "run-five-questions-20261030-impulsive-label",
+  "body": "INPUT: Dimensional summary row for @JayAfrican, 30 Oct 2026: 'Impulse: Controlled / Mix / Impulsive' with Impulsive selected. Took this label (the one carrying most weight for the bidirectional-filter tension; 'Communication: Expressive' went to the Jargon Breaker). Subject is JayArr; privacy none. Q2 RULER: compared with other Dimensional users; three bins with undeclared thresholds; one sitting of self-report; no period, no count, no record of behaviour. Q1 UNIT: the app puts it on the person; the AuDHD findings put output filtering on the state (hot: output loses its filter; baseline: gated). Q3 HOW MANY: at least three things under one word, the standard multidimensional split (UPPS; Whiteside & Lynam 2001): acting before thinking (his Deliberation facet is Low), seeking intensity (Sensation-Seeking High), and acting rashly under strong feeling (the hot state). Can't tell from inside the label which carried the score. Q4 COST: as a trait word it reads as reckless and erases the state distinction; it overlaps the Why-log 'inconsistency' hole. If wrong, he pays. Q5 PEN: Dimensional's scoring holds it; he reads it; he can't answer it except by retaking. REWRITE: 'On 30 Oct 2026, Jayarr's self-report put him in the Impulsive bin of Dimensional's three-bin scale, compared with other app users; the label doesn't say which kind of impulsivity (deciding fast, low premeditation, or acting rashly under strong feeling) or which state he answered from.' INVENTED TO WRITE IT: nothing; what's missing is the thresholds and the state. RESULT FOR THE TENSION: the label does not establish ungated output; it neither confirms nor contradicts the 'baseline output is gated' finding. Falsifier: if a retake taken in a known regulated week still lands Impulsive, with Deliberation still Low, the trait reading gains and the state reading loses.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    }
+  ],
+  "plain": "Five questions on Dimensional's label 'Impulse: Impulsive': the ruler is other app users on one day of self-report, the unit is written as the person though the findings say state, and the one word covers at least three different things.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "five-questions",
+  "type": "run",
+  "verdict": {
+    "value": "ADDED: ruler is other app users on one sitting; unit slides from state to person; 'impulsive' is at least three things",
+    "vocabulary": "five-questions"
+  }
+}

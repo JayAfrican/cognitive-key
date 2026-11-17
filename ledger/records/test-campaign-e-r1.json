@@ -1,0 +1,20 @@
+{
+  "id": "test-campaign-e-r1",
+  "custody": "FILED",
+  "date": "2026-09-30",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-frame-adds"
+    },
+    {
+      "rel": "recorded_in",
+      "to": "entry-060"
+    }
+  ],
+  "plain": "Campaign E round 1 (ChatGPT): withdrawn — plain chats picked up the frame from chat history.",
+  "privacy": "none",
+  "type": "run"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "claim-dimensional-20261030-03-curiosity-stimulation",
+  "body": "Agreement 3 of 10 from the Dimensional x AuDHD findings comparison (Overlap tab, Jayarr — Dimensional Profile). Matches: JayArr's stated theory (2026-10-24) and the 'why' shut down in childhood (2026-10-29 thread). Nature: consistency between two self-reports (the findings and a self-report app), not confirmation. Levels measured from the app's 5-segment bars.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab",
+  "evidence": "Dimensional app self-report, 2026-10-30 (see entry-20261030-dimensional-source)",
+  "evidence_kind": "app self-report + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    }
+  ],
+  "plain": "Dimensional's curiosity and stimulation results fit JayArr's theory of a gifted child under-stimulated: Curiosity and Investigating Very high, Love of Learning 83, Stimulation a top-5 value, Novelty Seeking Very high. Consistent with the theory; not evidence of its cause.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "consistency with JayArr's stated theory (not a filed finding); source call on that theory material: asked, awaiting his answer; content not ruled",
+  "type": "claim"
+}

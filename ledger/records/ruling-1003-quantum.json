@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-quantum",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 A1",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c29"
+    }
+  ],
+  "plain": "Quantum physics can be discussed but can't support a claim about minds; when it's ruled out, say plainly why.",
+  "privacy": "none",
+  "type": "ruling"
+}

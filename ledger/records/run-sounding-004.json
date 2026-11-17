@@ -1,0 +1,21 @@
+{
+  "id": "run-sounding-004",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "doc_ref": "sounding-run-4.md",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-sounding-screen"
+    },
+    {
+      "rel": "recorded_in",
+      "to": "entry-061"
+    }
+  ],
+  "plain": "Sounding on the periodic table: honest (LOAD-BEARING) — the tool can say yes.",
+  "privacy": "none",
+  "type": "run"
+}

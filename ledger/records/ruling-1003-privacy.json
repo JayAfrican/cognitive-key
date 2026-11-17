@@ -1,0 +1,20 @@
+{
+  "id": "ruling-1003-privacy",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 C1",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c03"
+    },
+    {
+      "rel": "about",
+      "to": "rule-c04"
+    }
+  ],
+  "plain": "The two privacy rules (no non-consenting third parties; his own PII stays out) are his.",
+  "privacy": "none",
+  "type": "ruling"
+}

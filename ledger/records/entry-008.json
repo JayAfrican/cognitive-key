@@ -1,0 +1,12 @@
+{
+  "id": "entry-008",
+  "custody": "FILED",
+  "date": "2026-09-05",
+  "decided_by": "mirror",
+  "doc_ref": "inversion-log.md §4",
+  "plain": "The gamepad is the log's best illustration of binning: a D-pad diagonal is two switches pressed together.",
+  "plain_source": "written",
+  "privacy": "none",
+  "register_basis": "Bookkeeping. §6a and §6b are both records of it going wrong",
+  "type": "entry"
+}

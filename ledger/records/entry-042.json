@@ -1,0 +1,12 @@
+{
+  "id": "entry-042",
+  "custody": "CORROBORATED",
+  "date": "2026-09-10",
+  "decided_by": "blind",
+  "doc_ref": "inversion-log.md §28",
+  "plain": "Campaign B run. The pre-registered prediction FAILS, and the instrument is cleaner than its author.",
+  "plain_source": "title",
+  "privacy": "none",
+  "register_basis": "Four blind sessions, transcripts returned by JayArr",
+  "type": "entry"
+}

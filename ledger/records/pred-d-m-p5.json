@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-m-p5",
+  "confidence": 55,
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "At least one case meets all three conditions and is fixed quickly.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "FAILED",
+    "vocabulary": "prediction"
+  }
+}

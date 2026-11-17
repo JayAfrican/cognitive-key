@@ -1,0 +1,16 @@
+{
+  "id": "ruling-0912-asking",
+  "custody": "RULED",
+  "date": "2026-09-12",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md constraint 21",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c21"
+    }
+  ],
+  "plain": "Asking whether something is new is not claiming it is new.",
+  "privacy": "none",
+  "type": "ruling"
+}

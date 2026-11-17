@@ -1,0 +1,18 @@
+{
+  "id": "issue-09",
+  "custody": "FILED",
+  "date": "2026-10-05",
+  "decided_by": "mirror",
+  "doc_ref": "campaign-a-results.md §10b",
+  "links": [
+    {
+      "rel": "about",
+      "to": "test-campaign-a"
+    }
+  ],
+  "owner": "mirror",
+  "plain": "JayArr's own Campaign A predictions (§1a) can't be found. The runbook slot is blank, so they have never been scored.",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

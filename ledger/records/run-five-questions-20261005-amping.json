@@ -1,0 +1,24 @@
+{
+  "id": "run-five-questions-20261005-amping",
+  "body": "INPUT (JayArr's report of something said to him; speaker not named): \"You be amping (unexpectedly raising my voice) especially when it comes to women he be getting emotional.\" Earlier short form he gave: \"Emotional and Impatient.\" The bracketed gloss is JayArr's. ROUTE: sentence about a person, so five questions (Q2 first), then the Jargon Breaker, then the rewrite. Q2 RULER: 'unexpectedly' means expected by the listener, so the speaker's expectation is the only ruler. 'Be' (habitual) claims a repeated pattern with no count, period or record. 'Emotional' and 'impatient' have no comparator. Q1 UNIT: the short form puts the trait on the whole person; the long form puts it on episodes in a setting. 'When it comes to women' slides between a topic, an audience and a particular situation. Q3 HOW MANY: two claims joined: an observation (volume rises) and an inference (emotion); the inference may be the speaker's reading of the observation. Also a pronoun switch, 'you' then 'he', so either two remarks merged or the second half was said to someone else. Can't tell from inside. Q4 COST: 'emotional' moves attention from what he's saying to how he's saying it, so it can set the point aside. If the label is wrong, he pays; the speaker pays little. Q5 PEN: the speaker holds it. A spoken remark, so unlike a written report he can answer it, starting with 'when?'. REWRITE: 'When conversations turn to women [topic / with women / one situation: unspecified], your voice often [how often: unspecified] gets louder than I expect, and I read that as you being upset.' INVENTED TO WRITE IT: the count and period, which sense of 'women', the comparator (louder than his own normal or than others'?), and the speaker's ownership of the loud→upset inference. FALSIFIER: if the speaker can name specific conversations where his volume rose on this topic and not on others, the observation half holds; the 'emotional' half still needs something seen beyond volume.",
+  "custody": "FILED",
+  "date": "2026-10-05",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "ruling-1003-layers"
+    }
+  ],
+  "plain": "Five questions on 'you be amping… he be getting emotional': one checkable claim (your voice gets louder, often, in some conversations), one inference (that it means you're emotional), and no ruler except the speaker's own expectation.",
+  "privacy": "none",
+  "source_call": "SCAFFOLDING: JayArr, 2026-10-07 (\"scaffold… by basis, meaning I'm prompted for certainty\"). Test material, not a record about him",
+  "status": "first run through the package",
+  "tool": "five-questions",
+  "type": "run",
+  "verdict": {
+    "value": "ADDED: separated the observation from the inference; ruler is the speaker's expectation; three readings of 'when it comes to women'",
+    "vocabulary": "five-questions"
+  }
+}

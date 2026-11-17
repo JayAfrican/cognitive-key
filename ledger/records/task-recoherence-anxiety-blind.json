@@ -1,0 +1,12 @@
+{
+  "id": "task-recoherence-anxiety-blind",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "why-log.md W-14",
+  "owner": "mirror",
+  "plain": "Blind Recoherence run on 'anxiety', a known-answer test (Andrews 2022 says two things). Needs a session with no project attached.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

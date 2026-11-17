@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-jargon",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 C4",
+  "links": [
+    {
+      "rel": "about",
+      "to": "task-jargon-first-run"
+    }
+  ],
+  "plain": "Keep the Jargon Breaker installed and log its first run.",
+  "privacy": "none",
+  "type": "ruling"
+}

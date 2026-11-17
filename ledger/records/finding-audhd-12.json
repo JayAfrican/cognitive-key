@@ -1,0 +1,22 @@
+{
+  "id": "finding-audhd-12",
+  "body": "AuDHD finding 12 of 45, from JayArr's Oct 7–10 2026 AuDHD learning session ('AuDHD Findings — Unification', https://claude.ai/artifact/7rFbUeV4dr27Bp7dzmkyfy). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-11, prompted under constraint 28).",
+  "custody": "RULED",
+  "date": "2026-10-10",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/artifact/7rFbUeV4dr27Bp7dzmkyfy",
+  "evidence": "Published research: Stress inoculation: Lyons & Parker 2007, J Trauma Stress; review PMC4736400. Social buffering: Hostinar, Sullivan & Gunnar 2014, Psychol Bull. Masking costs: Cage & Troxell-Whitman 2019, J Autism Dev Disord",
+  "evidence_kind": "research + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "Stress builds capacity when dosed, recovered and shared; it degrades capacity when chronic, unrecovered and isolating.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending",
+  "type": "claim",
+  "verified": "2026-10-12: research tags checked against named published sources by the mirror"
+}

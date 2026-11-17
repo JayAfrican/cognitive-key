@@ -1,0 +1,21 @@
+{
+  "id": "pred-e-m-q5",
+  "confidence": 85,
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-e-gemini"
+    }
+  ],
+  "plain": "The frame beats plain on 'who pays' on all three sentences.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "FAILED",
+    "vocabulary": "prediction"
+  }
+}

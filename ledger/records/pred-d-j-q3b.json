@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-j-q3b",
+  "confidence": 65,
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "Rung 3 is not common.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "HELD",
+    "vocabulary": "prediction"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "finding-audhd-06",
+  "body": "AuDHD finding 6 of 45, from JayArr's Oct 7–10 2026 AuDHD learning session ('AuDHD Findings — Unification', https://claude.ai/artifact/7rFbUeV4dr27Bp7dzmkyfy). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-11, prompted under constraint 28).",
+  "custody": "RULED",
+  "date": "2026-10-10",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/artifact/7rFbUeV4dr27Bp7dzmkyfy",
+  "evidence_kind": "experience (his own observation)",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "Stimulants amplify attention and intent directs it. One deep tunnel or several shallow ones.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending",
+  "type": "claim",
+  "verified": "2026-10-12: research tags checked against named published sources by the mirror"
+}

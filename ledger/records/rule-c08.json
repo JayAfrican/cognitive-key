@@ -1,0 +1,12 @@
+{
+  "id": "rule-c08",
+  "body": "\"It's not either/or, it's which one leads first.\" Scale of 1–99. Lead-lag, not binary.",
+  "custody": "MIXED",
+  "decided_by": "mixed",
+  "doc_ref": "session-brief.md §4 constraint 8",
+  "plain": "\"It's not either/or, it's which one leads first.\"",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "seam": "Custody pass 2026-10-01 (ruled-or-filed.md §5)",
+  "type": "rule"
+}

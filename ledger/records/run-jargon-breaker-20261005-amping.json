@@ -1,0 +1,29 @@
+{
+  "id": "run-jargon-breaker-20261005-amping",
+  "body": "INPUT as in run-five-questions-20261005-amping. FIRED: J4/J5 'amping' (sense fixed by JayArr's gloss: volume rising suddenly, more than the moment seems to call for; conf 75; wrong if the speaker meant excited/hyped in a good way). Grammar note: habitual 'be' marks a repeated pattern (African American English aspect; Green 2002); conf 85. J4/J5 'when it comes to women': below 60, so two readings. (a) when the topic is women or relationships, conf 50; (b) runner-up: when talking with a woman, or in conflict with one. J4 'emotional': two senses, (a) feeling something strongly, true of anyone, and (b) feeling overriding sense, which discredits. Listeners hear (b); conf 65; wrong if it was meant sympathetically. J2 'unexpectedly' (JayArr's own gloss): expected by whom? Posited: the speaker; conf 80. J6: the phrasing moves the topic from the point to the delivery. The other side's sentence: 'I raise my voice when I don't feel heard on this.' J7 plain version: 'When we talk about women, you get louder than I expect, and I take that as you being upset rather than making a point.' Mildly less comfortable for the speaker, because it names their own reading as the ruler. NULL: J1 (no nominalised actor), J3 (no residual term), J8 (not run: casual speech, and no etymology lookup recorded), J9 (spoken, but the stress can't be recovered from a written report). VERDICT: IMPRECISION, conf ~60; runner-up AIMED, for 'emotional' alone. About the language, never the speaker.",
+  "custody": "FILED",
+  "date": "2026-10-05",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "run-five-questions-20261005-amping"
+    },
+    {
+      "rel": "discharges",
+      "to": "task-jargon-first-run"
+    }
+  ],
+  "plain": "First logged Jargon Breaker run: on 'amping… emotional', the opacity reads as IMPRECISION. The setting and the ruler are missing, probably by accident; 'emotional' does some work setting the point aside.",
+  "privacy": "none",
+  "source_call": "SCAFFOLDING: JayArr, 2026-10-07. Test material, not a record about him",
+  "status": "first run (first logged Jargon Breaker run; ruling C4)",
+  "tool": "jargon-breaker",
+  "type": "run",
+  "verdict": {
+    "confidence": 60,
+    "value": "IMPRECISION",
+    "vocabulary": "jargon"
+  }
+}

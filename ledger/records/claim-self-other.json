@@ -1,0 +1,10 @@
+{
+  "id": "claim-self-other",
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "doc_ref": "inversion-log.md §49",
+  "plain": "Who does the judging changes accuracy: self, friends and strangers each see different traits best (SOKA).",
+  "privacy": "none",
+  "seam": "External literature, checked against the paper; mapping to the framework is the mirror's.",
+  "type": "claim"
+}

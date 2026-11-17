@@ -1,0 +1,23 @@
+{
+  "id": "finding-audhd-58",
+  "body": "AuDHD finding 58 of 67, from JayArr's Oct 19 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Research tags checked 2026-11-17 (see 'verified' and 'research_check').",
+  "custody": "RULED",
+  "date": "2026-10-19",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence": "Published research: Pellicano & Burr 2012, Trends in Cognitive Sciences 16:504 ('When the world becomes too real': weak priors in autism)",
+  "evidence_kind": "experience + research",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "No interaction is new: all input is matched against filed patterns. Absorb is matching, not passive intake.",
+  "privacy": "none",
+  "research_check": "Verified, with a caveat: a theory, not an established mechanism. Rival accounts (e.g. Van de Cruys et al. 2014) and a 2022 ten-year review of Bayesian theories of autism report mixed evidence.",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: research tags checked by the mirror against named published sources"
+}

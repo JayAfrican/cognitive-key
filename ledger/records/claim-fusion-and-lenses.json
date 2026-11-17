@@ -1,0 +1,18 @@
+{
+  "id": "claim-fusion-and-lenses",
+  "body": "RULED 2026-10-07, JayArr: \"you're correct\", after the exact wording was read back: \"Your best state is fusion: the whole arrives at once. Your design rule is parallel lenses, because a whole that arrives at once can't be checked from inside, so the check is built outside, in separate pieces. The rule isn't in tension with the state; it's the brake sized to it.\" Spark: an outside statement from his AuDHD / DSM-5 research (JayArr: scaffolding) claiming a contradiction, and proposing 'two notes of the same octave'. That fix was declined: it maps a build rule onto the container (§0.7), and 'fusion' was doing two jobs (merging explanations vs the whole arriving at once). The 8th note is described as coherence, aligned not merged, and the 7th note's dial favours defusion. Grounded in his 2026-09-12 words: 'knowing before thinking — bring my internal stimuli external so you can check my work.' Prior art for the shape: discovery vs justification (Reichenbach 1938).",
+  "custody": "RULED",
+  "date": "2026-10-07",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §10 · spark-log.md 2026-10-07",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "claim-octave-container"
+    }
+  ],
+  "plain": "Fusion is how JayArr works at his best (the whole arrives at once); parallel lenses are the brake sized to it, because a fused whole can't be checked from inside.",
+  "privacy": "none",
+  "seam": "Wording the mirror's; confirmed verbatim by JayArr",
+  "type": "claim"
+}

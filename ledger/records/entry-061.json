@@ -1,0 +1,13 @@
+{
+  "id": "entry-061",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "doc_ref": "inversion-log.md §47",
+  "plain": "The Sounding returns LOAD-BEARING · the periodic table · the tool sorts",
+  "plain_source": "title",
+  "privacy": "none",
+  "register_basis": "Subagent, no corpus, no tools; LOAD-BEARING — the tool sorts. Independent run on another model would make it CORROBORATED. sounding-run-4.md",
+  "type": "entry",
+  "verdict_text": "LOAD-BEARING"
+}

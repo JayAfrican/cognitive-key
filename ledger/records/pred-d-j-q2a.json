@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-j-q2a",
+  "confidence": 90,
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "The people harmed come back NO most often.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "UNTESTABLE",
+    "vocabulary": "prediction"
+  }
+}

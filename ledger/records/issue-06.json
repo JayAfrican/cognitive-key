@@ -1,0 +1,12 @@
+{
+  "id": "issue-06",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "doc_ref": "ruled-or-filed.md §5d",
+  "owner": "mirror",
+  "plain": "The lexicon's rules section is out of date (missing files, rule count, constraint count).",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

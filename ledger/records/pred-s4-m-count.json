@@ -1,0 +1,21 @@
+{
+  "id": "pred-s4-m-count",
+  "confidence": 75,
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "run-sounding-004"
+    }
+  ],
+  "plain": "Rung 4 does not flag any count as chosen for satisfaction.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "HELD",
+    "vocabulary": "prediction"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-book-wait",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 B1/B2",
+  "links": [
+    {
+      "rel": "about",
+      "to": "task-book-v25"
+    }
+  ],
+  "plain": "The book edits wait; question order and AI wording don't matter until then.",
+  "privacy": "none",
+  "type": "ruling"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "finding-audhd-63",
+  "body": "AuDHD finding 63 of 67, from JayArr's Oct 19 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Candidate law, not yet tested against a trait still in survival mode.",
+  "custody": "RULED",
+  "date": "2026-10-19",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence_kind": "experience (pattern across traits)",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "Candidate Framework law: survival adaptations keep their skill and change their purpose, from protection to choice.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: no research tag to check"
+}

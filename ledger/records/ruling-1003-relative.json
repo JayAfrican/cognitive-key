@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-relative",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 D2-D3",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c18"
+    }
+  ],
+  "plain": "What grounds the reclaiming rule, and its asymmetry, are always relative — decided subject to subject; testable later.",
+  "privacy": "none",
+  "type": "ruling"
+}

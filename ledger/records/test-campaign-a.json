@@ -1,0 +1,29 @@
+{
+  "id": "test-campaign-a",
+  "custody": "CORROBORATED",
+  "date": "2026-09-22",
+  "decided_by": "blind",
+  "doc_ref": "campaign-a-results.md · raw record: campaign-a-runners-return.md",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "entry-023"
+    },
+    {
+      "rel": "tests",
+      "to": "entry-002"
+    },
+    {
+      "rel": "recorded_in",
+      "to": "entry-046"
+    },
+    {
+      "rel": "updated_by",
+      "to": "entry-066"
+    }
+  ],
+  "plain": "Campaign A: 18 blind runs. The solvent test passed twice; the neurotypical/neurodivergent reframe took a hit.",
+  "privacy": "none",
+  "type": "run"
+}

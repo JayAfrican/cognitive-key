@@ -1,0 +1,25 @@
+{
+  "id": "run-stopping-engine-20261030-trait-tests-adhd-side",
+  "body": "CLAIM (Why-log candidate 1, Overlap tab): 'A personality trait test read against group averages points away from autism in an AuDHD person, because it picks up the ADHD-side presentation.' Step 1: falsifiable (compare Big Five profiles of AuDHD, autism-only and ADHD-only adults). Step 2, steelman: 'In adults with both autism and ADHD, Big Five profiles look more like ADHD-only profiles than autism-only ones, so a reader using autistic group averages would miss the autism.' Step 3, sources: Lodi-Smith et al. 2019 (Autism; doi 10.1177/1362361318766571): autistic vs non-autistic adults lower on Extraversion (Hedges' g -1.42, largest gap) and Conscientiousness (-0.88); figures from a summary of the abstract. Gomez & Corr 2014 (Clin Psychol Rev 34:376-388): ADHD symptoms linked to lower Conscientiousness and Agreeableness and higher Neuroticism. Park et al. 2017 (Twin Res Hum Genet 20:319-329; n=3,170 population twins): neuroticism is the Big Five trait consistently tied to both autistic and ADHD traits; continuous traits, no diagnosed groups. None compares co-occurring and single-diagnosis groups; one search for such a study came back empty (NOT LOCATED, not absent). The central link has no source. HALT: UNSUPPORTED at step 3. Noted on the way: his profile (Emotional Stability High) runs against the one marker shared by both conditions, which fits the claim's direction but is one case. Also, Dimensional is not a diagnostic instrument and no source shows clinicians use Big Five to rule autism out. Harm tier H0: no action implied. What it changes: candidate 1 stays out of The Why for now; it can stand as an open question. Falsifier: a study of AuDHD adults showing Big Five profiles closer to autism-only than ADHD-only would refute it; one showing ADHD-like profiles would support it.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    }
+  ],
+  "plain": "Screened the claim that trait tests read the ADHD side of an AuDHD profile and point away from autism: no source compares co-occurring and single-diagnosis trait profiles, so it is UNSUPPORTED at step 3; not ready for The Why.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "stopping-engine",
+  "type": "run",
+  "verdict": {
+    "confidence": 0.7,
+    "value": "UNSUPPORTED at step 3",
+    "vocabulary": "screen"
+  }
+}

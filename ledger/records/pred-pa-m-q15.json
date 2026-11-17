@@ -1,0 +1,18 @@
+{
+  "id": "pred-pa-m-q15",
+  "confidence": 55,
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-person-arm"
+    }
+  ],
+  "plain": "Moves 1 and 5 appear before the page already.",
+  "privacy": "none",
+  "seam": "Sealed; not yet scored.",
+  "status": "open",
+  "type": "prediction"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "claim-dimensional-20261030-08-bottom-up-repertoire",
+  "body": "Agreement 8 of 10 from the Dimensional x AuDHD findings comparison (Overlap tab, Jayarr — Dimensional Profile). Matches: Finding #3: every effective tool is bottom-up (exercise, nature). Nature: consistency between two self-reports (the findings and a self-report app), not confirmation. Levels measured from the app's 5-segment bars.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab",
+  "evidence": "Dimensional app self-report, 2026-10-30 (see entry-20261030-dimensional-source)",
+  "evidence_kind": "app self-report + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-03"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-cross-pollination-intake-20261030-music-interest-vs-tool"
+    }
+  ],
+  "plain": "High interest in exercise and the outdoors (Fitness and Outdoorsy Very high) sits alongside #3's bottom-up tools; Dimensional measures interest, not their use for regulation (same standard as run-cross-pollination-intake-20261030-music-interest-vs-tool).",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "consistency with AuDHD findings; content not ruled",
+  "type": "claim"
+}

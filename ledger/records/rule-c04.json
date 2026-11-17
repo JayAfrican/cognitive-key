@@ -1,0 +1,12 @@
+{
+  "id": "rule-c04",
+  "body": "JayArr's own PII stays out by default — full legal name, DOB, birthplace, reference numbers. (RULED 2026-10-03, with 3.)",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §4 constraint 4",
+  "plain": "JayArr's own PII stays out by default",
+  "plain_source": "first sentence",
+  "privacy": "safety",
+  "type": "rule"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ruling-0925-frame",
+  "custody": "RULED",
+  "date": "2026-09-25",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §0.7 · inversion-log.md §44e-ii",
+  "links": [
+    {
+      "rel": "about",
+      "to": "entry-058"
+    }
+  ],
+  "plain": "The five questions are the frame; the Octave is the container that teaches them.",
+  "privacy": "none",
+  "type": "ruling"
+}

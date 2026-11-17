@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-nickname",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 D4",
+  "links": [
+    {
+      "rel": "about",
+      "to": "entry-041"
+    }
+  ],
+  "plain": "His nickname example stays in the record — it was accurate.",
+  "privacy": "none",
+  "type": "ruling"
+}

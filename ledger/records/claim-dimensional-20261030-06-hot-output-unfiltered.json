@@ -1,0 +1,33 @@
+{
+  "id": "claim-dimensional-20261030-06-hot-output-unfiltered",
+  "body": "Agreement 6 of 10 from the Dimensional x AuDHD findings comparison (Overlap tab, Jayarr — Dimensional Profile). Matches: Finding #21: hot is a bidirectional filter failure; output loses its filter. Nature: consistency between two self-reports (the findings and a self-report app), not confirmation. Levels measured from the app's 5-segment bars.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab",
+  "evidence": "Dimensional app self-report, 2026-10-30 (see entry-20261030-dimensional-source)",
+  "evidence_kind": "app self-report + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-21"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-five-questions-20261030-impulsive-label"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-jargon-breaker-20261030-impulsive-expressive"
+    }
+  ],
+  "plain": "Dimensional's impulsivity results (Impulsive in summary and Disposition, Emotionality High; Slow to Anger, Moderation and Deliberation Low) are compatible with, but do not establish, #21's unfiltered hot-state output; the Impulsive label does not establish ungated output (see the five-questions and Jargon Breaker runs).",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "consistency with AuDHD findings; content not ruled",
+  "type": "claim"
+}

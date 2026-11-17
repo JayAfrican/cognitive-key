@@ -1,0 +1,20 @@
+{
+  "id": "why-w13",
+  "body": "Why Log W-13. Kentrou et al. 2024, eClinicalMedicine (PMC11001629): n=1,211 Dutch autistic adults; 24.6% perceived misdiagnosis (women 31.7%, men 16.7%); equal by gender within those with any prior diagnosis. Supporting: Au-Yeung et al., Autism (online 2018). Fair side: perceived, not confirmed; self-selected, highly educated Dutch sample. Type: reader-dependent criterion.",
+  "custody": "RULED",
+  "date": "2026-10-12",
+  "decided_by": "jayarr",
+  "doc_ref": "why-log.md W-13",
+  "evidence": "Published, peer-reviewed: Kentrou et al. 2024, eClinicalMedicine (PMC11001629)",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "ruling-0925-frame"
+    }
+  ],
+  "plain": "One in four autistic adults, and one in three autistic women, report a psychiatric diagnosis before autism that they now judge wrong. Women get more earlier diagnoses; the rate per diagnosis is equal.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "status": "evidence (JayArr, 2026-10-12: actual scientific sources)",
+  "type": "claim"
+}

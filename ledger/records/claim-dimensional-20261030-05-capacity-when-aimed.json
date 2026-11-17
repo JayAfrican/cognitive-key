@@ -1,0 +1,29 @@
+{
+  "id": "claim-dimensional-20261030-05-capacity-when-aimed",
+  "body": "Agreement 5 of 10 from the Dimensional x AuDHD findings comparison (Overlap tab, Jayarr — Dimensional Profile). Matches: Finding #6 (intent aims attention) and the Why-log 'inconsistency' hole. Nature: consistency between two self-reports (the findings and a self-report app), not confirmation. Levels measured from the app's 5-segment bars.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab",
+  "evidence": "Dimensional app self-report, 2026-10-30 (see entry-20261030-dimensional-source)",
+  "evidence_kind": "app self-report + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-06"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-stopping-engine-20261030-trait-language-state-effects"
+    }
+  ],
+  "plain": "Conscientiousness Low alongside Time Management, Competence and Keeping Busy High fits capacity that is there when aimed by intent. Whether it varies with load is untested (see run-stopping-engine-20261030-trait-language-state-effects).",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "consistency with AuDHD findings; content not ruled",
+  "type": "claim"
+}

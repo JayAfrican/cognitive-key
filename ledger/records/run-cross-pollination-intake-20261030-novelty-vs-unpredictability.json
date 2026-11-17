@@ -1,0 +1,28 @@
+{
+  "id": "run-cross-pollination-intake-20261030-novelty-vs-unpredictability",
+  "body": "0 INTAKE. Anomaly (stated without the framework): the same person scores Novelty Seeking Very high, Sensation-Seeking High and Security as his lowest value, while reporting that unpredictable input costs energy until it is routinized (AuDHD finding #5, and unpredictability as a cost in the energy economy). Candidate domain: who initiates the unpredicted input. Expected: single axis (held: not contradicted). Arrived from: the Dimensional x AuDHD comparison, 2026-10-30. Stop condition not triggered. 1 LEVEL. Title: 'novelty' in both. Plot: Dimensional's novelty seeking is chosen, self-initiated new experience; #5 is unpredicted input arriving from the world. Theme: the cost of an unpredicted input depends on whether you started it. Exclusion: surface without theme: a novelty gift, a novel (book), a 'new car' smell. Theme without surface: a surgeon who loves operating but is drained by unscheduled call-ins; jumping versus being pushed; tickling yourself versus being tickled (self-produced touch is predicted and felt less: Blakemore, Wolpert & Frith 1998). Passes. 2 ADMISSIBILITY. A1: the obvious resolving word is the Framework's own 'source' axis (self vs world), the framework's signature and the most dangerous kind of pass. The 'source' reading is STRUCK under A1. The theme stands only in the independent literatures' terms, controllability / initiation of the input: sensory attenuation of self-generated input (Blakemore et al. 1998) and stressor controllability (Maier & Seligman 2016), neither sharing ancestry with the Framework. A2: Dimensional is a designed instrument; used here only as a record of self-report, not for its design intent. 3 FIT. Not a phased process: T1 fails, so no pattern mapping. Route to inversion. 4 INVERSION. 4a: 'unpredictability' is not a residual of 'novelty'. 4b Q1: both high at once? Yes, in this person: high appetite for novelty and high cost of unpredicted input. So two dimensions, not a novelty-lover vs novelty-averse axis. Q3: one mechanism (prediction error) at two settings of initiation/control. Verdict: SINGLE AXIS for the cost: controllability / initiation of the unpredicted input (independent terms); candidate parameter. Appetite for novelty is a separate dimension. 6 ROUTING. Admissible as an inversion entry. Changes: #5 can be restated 'Unpredictability imposed by the world is costly until routinized; novelty you initiate is not, or much less.' Does not license: that chosen novelty is free (transitions cost even between chosen activities; JayArr, 2026-10-24: 'transitions are the killer'), or anything about the Framework's 'source' axis, which was struck under A1 and is not tested by this run. Trap: 'I only struggle when other people impose change.' 7 REGISTER. Rests on first-person report and a self-report app: trained-instrument caveat. Falsifier: if self-initiated novelty (starting a project he chose, a trip he planned) produces the same backlog and drain as imposed change of similar size, the axis fails.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-05"
+    }
+  ],
+  "plain": "Ran intake on 'novelty seeking Very high' vs finding #5 'novelty is costly until routinized': not a contradiction but two dimensions, with the cost set by one axis, who initiates the unpredicted input.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "cross-pollination-intake",
+  "type": "run",
+  "verdict": {
+    "value": "SINGLE AXIS (cost of unpredicted input set by who initiates it; appetite for novelty is a separate dimension)",
+    "vocabulary": "inversion"
+  }
+}

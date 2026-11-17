@@ -1,0 +1,16 @@
+{
+  "id": "test-campaign-b",
+  "custody": "CORROBORATED",
+  "date": "2026-09-10",
+  "decided_by": "blind",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "recorded_in",
+      "to": "entry-042"
+    }
+  ],
+  "plain": "Campaign B: four blind sessions; the pre-registered prediction failed and the instrument came out cleaner than its author.",
+  "privacy": "none",
+  "type": "run"
+}

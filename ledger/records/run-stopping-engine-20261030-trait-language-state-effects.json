@@ -1,0 +1,29 @@
+{
+  "id": "run-stopping-engine-20261030-trait-language-state-effects",
+  "body": "CLAIM (Why-log candidate 3): ''Low Conscientiousness' and 'Impulsive' are the trait-test version of the inconsistency hole: capacity that varies with load gets written as a fixed property.' Step 1: falsifiable (retest across known states). Step 2: two claims in one: (a) a single-sitting trait test can't tell a stable trait from the state the person answered in; (b) his specific scores ARE state effects. Step 3: (a) is supported in general: within-person variation in trait-relevant states is large, comparable to differences between people (Fleeson 2001, density distributions; not re-checked this session); Dimensional's own Fluidity field concedes variability. (b) has no data: one sitting. Step 6: no magnitude for him; a single measurement carries the specific claim. HALT: OVERSTATED at step 6 (a real general point inflated into a claim about these scores). Restated: 'A one-sitting trait test can't separate state from trait, so Low Conscientiousness and Impulsive may partly reflect the state he answered in; whether they do is untested.' Harm tier H1. Practical test: Dimensional keeps score history per trait (Love of Learning shows a dated chart), so retakes in a regulated week and a dysregulated week would test (b) directly. Falsifier: if both retakes land the same levels, (b) fails.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-64"
+    }
+  ],
+  "plain": "Screened 'Low Conscientiousness and Impulsive are trait language for state effects': the general point holds (one sitting can't separate state from trait) but the claim about these scores is OVERSTATED at step 6; one measurement can't show it.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "stopping-engine",
+  "type": "run",
+  "verdict": {
+    "confidence": 0.65,
+    "value": "OVERSTATED at step 6; (b) unsupported at step 3 on the way",
+    "vocabulary": "screen"
+  }
+}

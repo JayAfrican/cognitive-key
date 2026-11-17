@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-review-later",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 C3",
+  "links": [
+    {
+      "rel": "about",
+      "to": "task-review-publishing-rules"
+    }
+  ],
+  "plain": "Review the mirror's six publishing rules later, one at a time.",
+  "privacy": "none",
+  "type": "ruling"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rule-c16",
+  "body": "\"The log says\" means a numbered entry, quotable. Chat is not a record. (2026-09-09, entry 37 §23g.)",
+  "custody": "FILED",
+  "date": "2026-09-09",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 16",
+  "plain": "\"The log says\" means a numbered entry, quotable. Chat is not a record.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "finding-audhd-47",
+  "body": "AuDHD finding 47 of 67, from JayArr's Oct 15 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Name chosen by JayArr 2026-10-19 ('for now'). Falsifier and untested angle (voluntary ritual trance) in the run record.",
+  "custody": "RULED",
+  "date": "2026-10-15",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence_kind": "experience + framework run (Recoherence)",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-recoherence-20261015-dissociation"
+    }
+  ],
+  "plain": "The chosen sequence (shutdown, metacognition, verdict, move on) is Transmutive Consociation: the inverse of dissociation, chosen and connected. High and extreme states remain dissociation proper.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: no research tag to check"
+}

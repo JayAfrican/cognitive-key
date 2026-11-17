@@ -1,0 +1,20 @@
+{
+  "id": "ruling-1003-ask-each-time",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 A2/C2",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c28"
+    },
+    {
+      "rel": "about",
+      "to": "issue-01"
+    }
+  ],
+  "plain": "Ask JayArr each time whether incoming material is a source or scaffolding.",
+  "privacy": "none",
+  "type": "ruling"
+}

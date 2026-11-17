@@ -1,0 +1,24 @@
+{
+  "id": "run-cross-pollination-intake-20261030-music-interest-vs-tool",
+  "body": "0 INTAKE. Anomaly: Dimensional scores Interest in Music Low (2); the regulation repertoire lists music as a cold-state tool (structured strong signal; switches channel). Expected: a gap between known and used tools (contradicted; prediction discarded). Arrived from: the Dimensional x AuDHD comparison, 2026-10-30. 1 LEVEL. Title: 'music'. Plot: a lifestyle interest (hobby, identity, consumption) vs a regulatory use. Theme: none shared; a tool used for a job needs no interest (breathwork, sour candy, caffeine). STOP: title-level coincidence. Nothing survives; logged as a failure, which is a result. Admissible as: nothing. Changes: the T5 tension is withdrawn. Does not license: concluding the music tool is used; Dimensional doesn't measure use. Trap: 'the app proves I use music to regulate.' Falsifier: if Dimensional's 'Interest in Music' items include using music to change mood, the level check fails and the tension returns.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    }
+  ],
+  "plain": "Ran intake on 'Interest in Music Low' vs music as a cold-state regulation tool: title-level only. Using something as a tool doesn't require an interest in it, so there is no tension.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "cross-pollination-intake",
+  "type": "run",
+  "verdict": {
+    "value": "TITLE-LEVEL COINCIDENCE (no tension)",
+    "vocabulary": "inversion"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "run-stopping-engine-20261024-pattern-data-crosscheck",
+  "body": "Input (stripped of all third-party details): a case formulation pairing observed relationship behaviors with attachment and AuDHD mechanisms, plus a combined sequence table and conclusions. Steps run: 2, 3, 6, 7. Step 3: several mechanisms are not established constructs ('dissociative commitment / borrowed urgency'; lying about whereabouts as an attachment marker; 'trauma flooding' with no trauma established; 'PFC offline, no executive function' is a pop simplification of stress impairing PFC function; demand avoidance/PDA contested). Supported: demand-withdraw (pursuer-distancer) cycle is a researched couples pattern; time perception, real-time processing, shutdown, masking fatigue, knowing-doing gap are well described; interoception differences in autism documented but mixed. Step 7: single observer who is a party to the cycle; inner states inferred; each behavior is explained by both frameworks, which the sheet itself calls 'indistinguishable', so causal attribution halts UNSUPPORTED. Most falsifiable part: the behavioral checkpoint (action at a set date, not words). Falsifier for the formulation: behavior that one framework predicts and the other does not, observed by someone other than the author.",
+  "custody": "FILED",
+  "date": "2026-10-24",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "run-stopping-engine-20261024-audhd-fearful-avoidant"
+    }
+  ],
+  "plain": "Cross-checked a 'behavioral data' sheet behind the AuDHD/fearful-avoidant summary; observed behaviors are usable, the mechanism column is mostly inferred, and the 'data is clear' close is overstated.",
+  "privacy": "own_pii",
+  "source_call": "JayArr: scaffolding",
+  "status": "early run",
+  "tool": "stopping-engine",
+  "type": "run",
+  "verdict": {
+    "confidence": 0.7,
+    "value": "OVERSTATED at step 6 (markers and conclusions); UNSUPPORTED at step 7 (causal attribution); several mechanisms UNSUPPORTED at step 3",
+    "vocabulary": "screen"
+  }
+}

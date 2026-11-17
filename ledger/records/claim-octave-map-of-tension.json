@@ -1,0 +1,20 @@
+{
+  "id": "claim-octave-map-of-tension",
+  "body": "WITHDRAWN 2026-10-07 by JayArr: \"that claim was not for the octave at all. The octave was a system I unintentionally developed as an understanding of how I regulate.\" The mirror had tied the line \"the Octave is, in part, a map of how you learned to metabolize that tension\" to the Octave's origin and then to the 'how a man is supposed to act' tension. Both links were the mirror's, not his. The tension context (male peers, 'emotional', a norm for how a man should act) stays attached to the amping runs (run-five-questions-20261005-amping, run-jargon-breaker-20261007-amping-context) and makes no claim about the Octave.",
+  "custody": "RULED",
+  "date": "2026-10-07",
+  "decided_by": "jayarr",
+  "doc_ref": "spark-log.md · 2026-10-07",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "run-five-questions-20261005-amping"
+    }
+  ],
+  "plain": "WITHDRAWN: the 'map of that tension' line was not about the Octave. JayArr: \"that claim was not for the octave at all.\"",
+  "privacy": "none",
+  "seam": "Withdrawal is JayArr's; the earlier linking of the line to the Octave was the mirror's",
+  "source_call": "JayArr: source",
+  "status": "withdrawn 2026-10-07",
+  "type": "claim"
+}

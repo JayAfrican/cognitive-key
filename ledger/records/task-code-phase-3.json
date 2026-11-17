@@ -1,0 +1,12 @@
+{
+  "id": "task-code-phase-3",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "build-plan-code-2026-11-17.md",
+  "owner": "mirror",
+  "plain": "Code phase 3: write the framework as a handful of canonical files (frame, Octave, each tool, constraints, lexicon) from the 120+ docs, one at a time, each read back to JayArr.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

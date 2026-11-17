@@ -1,0 +1,15 @@
+{
+  "id": "entry-20261030-dimensional-source",
+  "body": "Material: 14 screenshots and 4 screen recordings of the Dimensional personality app (@JayAfrican), 30 Oct 2026. 197 scored traits in 22 categories; levels (1 Very low to 5 Very high) measured from each tile's 5-segment bar and checked against the app's own Big Five labels; exact scores visible for Connector (93) and Love of Learning (83, average user 73); 59 traits locked (Plus). Nature of the evidence: one sitting of self-report, compared with other app users; the app's own Fluidity field marks traits as variable. Comparison screens are not part of this source record. Source call: JayArr answered 'Source' when prompted under constraint 28, 2026-10-30.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab; dataset.json",
+  "evidence": "Dimensional app self-report, 2026-10-30",
+  "evidence_kind": "app self-report (normed against app users)",
+  "plain": "JayArr's Dimensional app profile (captured 30 Oct 2026): source call made, JayArr answered 'Source'. Content not ruled.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "source ruled; content not ruled",
+  "type": "entry"
+}

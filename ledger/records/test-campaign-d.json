@@ -1,0 +1,25 @@
+{
+  "id": "test-campaign-d",
+  "custody": "MIXED",
+  "date": "2026-09-28",
+  "decided_by": "mixed",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-three-conditions"
+    },
+    {
+      "rel": "tests",
+      "to": "claim-fixer-benefit"
+    },
+    {
+      "rel": "recorded_in",
+      "to": "entry-059"
+    }
+  ],
+  "plain": "Campaign D: nine recall cases drawn by rule. The three conditions were untouched; four holes found in the scoring sheet.",
+  "privacy": "none",
+  "seam": "Returns CORROBORATED (nine blind sessions, transcripts returned by JayArr); scoring FILED (the mirror's); §45g RULED (his correction). Source: ruled-or-filed.md row 45",
+  "type": "run"
+}

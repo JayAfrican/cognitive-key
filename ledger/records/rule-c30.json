@@ -1,0 +1,12 @@
+{
+  "id": "rule-c30",
+  "body": "Every ban is only as wide as its reasons. For any standing ban, state the narrowest rule its stated reasons support; if the ban is wider, say why. (2026-10-03. RULED. From entry 53 §39d — three bans found too wide in one day.)",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §4 constraint 30",
+  "plain": "Every ban is only as wide as its reasons.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

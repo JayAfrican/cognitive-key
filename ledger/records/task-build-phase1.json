@@ -1,0 +1,12 @@
+{
+  "id": "task-build-phase1",
+  "body": "Done 2026-10-05: Ledger seeded and verified (session-brief; build-plan-2026-10-02.md §9). Superseded by build-plan-code-2026-11-17.md.",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "owner": "mirror",
+  "plain": "Build Phase 1: the Ledger.",
+  "privacy": "none",
+  "status": "closed",
+  "type": "task"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-build",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "inversion-log.md §51",
+  "links": [
+    {
+      "rel": "about",
+      "to": "task-build-phase1"
+    }
+  ],
+  "plain": "Start the build first, so there's a solid foundation.",
+  "privacy": "none",
+  "type": "ruling"
+}

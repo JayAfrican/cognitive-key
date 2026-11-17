@@ -1,0 +1,20 @@
+{
+  "id": "why-w14",
+  "body": "Why Log W-14. Andrews, Aksman et al. 2022, Biological Psychiatry (UC Davis MIND; Nordahl, Amaral). 71 autistic + 55 non-autistic children, up to 4 scans, ~2–12 yrs. DSM anxiety: larger amygdala; autism-distinct anxiety: slower right-amygdala growth, smaller by last scan. Nordahl: lumped together, 'the amygdala changes would have canceled each other out.' Fair side: small groups (28/32/16), mostly boys, cause unknown (Amaral: 'really a mystery'). Type: one label, two things, mapped to master question 3 (ruled 2026-10-12).",
+  "custody": "RULED",
+  "date": "2026-10-12",
+  "decided_by": "jayarr",
+  "doc_ref": "why-log.md W-14",
+  "evidence": "Published, peer-reviewed: Andrews, Aksman et al. 2022, Biological Psychiatry",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "ruling-0925-frame"
+    }
+  ],
+  "plain": "Standard and autism-distinct anxiety track opposite amygdala growth in autistic children; lumped under one label, the differences cancel out.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "status": "evidence (JayArr, 2026-10-12: actual scientific sources)",
+  "type": "claim"
+}

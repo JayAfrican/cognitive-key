@@ -1,0 +1,12 @@
+{
+  "id": "issue-08",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "doc_ref": "ruled-or-filed.md §5d",
+  "owner": "mirror",
+  "plain": "Constraint 18's backing citation points to a section of the output rules that doesn't exist.",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

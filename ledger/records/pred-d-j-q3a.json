@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-j-q3a",
+  "confidence": 85,
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "Most cases stop at rung 2 — told on paper.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "FAILED",
+    "vocabulary": "prediction"
+  }
+}

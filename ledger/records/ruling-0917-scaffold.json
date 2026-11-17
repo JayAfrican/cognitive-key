@@ -1,0 +1,16 @@
+{
+  "id": "ruling-0917-scaffold",
+  "custody": "RULED",
+  "date": "2026-09-17",
+  "decided_by": "jayarr",
+  "doc_ref": "handoff-2026-09-22.md §0b",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c28"
+    }
+  ],
+  "plain": "A conversation outside this project is thinking scaffolding, not a source.",
+  "privacy": "none",
+  "type": "ruling"
+}

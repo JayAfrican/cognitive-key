@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-j-q2b",
+  "confidence": 70,
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "Typically one or two of the three groups get told.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "HELD",
+    "vocabulary": "prediction"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-dimensional-20261030-02-calibrated-sensor-social",
+  "body": "Agreement 2 of 10 from the Dimensional x AuDHD findings comparison (Overlap tab, Jayarr — Dimensional Profile). Matches: Findings #28 and #62: regulated hypervigilance is a calibrated sensor; fawning trained an expert reader. Nature: consistency between two self-reports (the findings and a self-report app), not confirmation. Levels measured from the app's 5-segment bars.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab",
+  "evidence": "Dimensional app self-report, 2026-10-30 (see entry-20261030-dimensional-source)",
+  "evidence_kind": "app self-report + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-28"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-62"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-stopping-engine-20261030-social-intelligence-compensation"
+    }
+  ],
+  "plain": "He rates himself Very high on Social Intelligence and Perspective (Connector 93; Approachable and Welcomer Very high). Consistent with #28 and #62, but a self-rating, not reading accuracy (see run-stopping-engine-20261030-social-intelligence-compensation).",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "consistency with AuDHD findings; content not ruled",
+  "type": "claim"
+}

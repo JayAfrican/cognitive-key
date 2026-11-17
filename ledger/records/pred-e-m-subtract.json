@@ -1,0 +1,20 @@
+{
+  "id": "pred-e-m-subtract",
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-e-gemini"
+    }
+  ],
+  "plain": "The frame crowds out at least one thing plain does freely.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "HELD",
+    "vocabulary": "prediction"
+  }
+}

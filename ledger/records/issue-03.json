@@ -1,0 +1,12 @@
+{
+  "id": "issue-03",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "doc_ref": "ruled-or-filed.md §5d",
+  "owner": "mirror",
+  "plain": "The Stopping Engine document cites a calibration set and a run that its own 'missing' section says don't exist.",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

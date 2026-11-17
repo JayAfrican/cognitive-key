@@ -1,0 +1,25 @@
+{
+  "id": "ruling-1012-why-log",
+  "body": "Three read-back options chosen by JayArr, 2026-10-12: (1) 'Source' for the outside chat's write-up, after the mirror checked both studies; (2) 'Start it here', so the Why Log opens in the project with W-13 and W-14, with W-1 to W-12 to be pasted in; (3) 'Map it to Q3': file W-14's type as a Why-log type pointing to question 3, with Andrews as its first outside evidence, and no new concept.",
+  "custody": "RULED",
+  "date": "2026-10-12",
+  "decided_by": "jayarr",
+  "doc_ref": "why-log.md · ruled-or-filed.md row 61",
+  "links": [
+    {
+      "rel": "about",
+      "to": "why-w13"
+    },
+    {
+      "rel": "about",
+      "to": "why-w14"
+    },
+    {
+      "rel": "about",
+      "to": "ruling-0925-frame"
+    }
+  ],
+  "plain": "The Kentrou 2024 / Andrews 2022 write-up is a source; the Why Log starts in this project; 'lumped category' maps to master question 3 rather than becoming a new type.",
+  "privacy": "none",
+  "type": "ruling"
+}

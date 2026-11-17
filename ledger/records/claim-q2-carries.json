@@ -1,0 +1,10 @@
+{
+  "id": "claim-q2-carries",
+  "custody": "CORROBORATED",
+  "decided_by": "blind",
+  "doc_ref": "campaign-e-results.md §10",
+  "plain": "Of the five questions, 'compared to what, measured by whom, over how long' is the one capable readers skip.",
+  "privacy": "none",
+  "seam": "Two clean blind runs on two models; scoring by the mirror.",
+  "type": "claim"
+}

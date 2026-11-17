@@ -1,0 +1,12 @@
+{
+  "id": "rule-c21",
+  "body": "Asserting novelty and querying novelty are different acts. A §2c check returning prior art is a successful run, not a correction. Record which act occurred. (2026-09-12, JayArr's correction.)",
+  "custody": "RULED",
+  "date": "2026-09-12",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §4 constraint 21",
+  "plain": "Asserting novelty and querying novelty are different acts.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

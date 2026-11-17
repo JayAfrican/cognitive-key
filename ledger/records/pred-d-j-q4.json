@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-j-q4",
+  "confidence": 85,
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "Slow fixes are the ones where fixing cost the company and not fixing landed on patients and drivers.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "UNTESTABLE",
+    "vocabulary": "prediction"
+  }
+}

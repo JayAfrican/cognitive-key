@@ -1,0 +1,12 @@
+{
+  "id": "entry-045",
+  "custody": "CORROBORATED",
+  "date": "2026-09-10",
+  "decided_by": "blind",
+  "doc_ref": "inversion-log.md §31",
+  "plain": "Campaign C. The confidence constant is a reporting artefact — and the finding it produces cuts entry 42 down.",
+  "plain_source": "title",
+  "privacy": "none",
+  "register_basis": "Three blind arms",
+  "type": "entry"
+}

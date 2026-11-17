@@ -1,0 +1,21 @@
+{
+  "id": "ruling-1005-car-source",
+  "body": "\"Source, but check it first\" (constraint 28 prompt, 2026-10-05)",
+  "custody": "RULED",
+  "date": "2026-10-05",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md row 52",
+  "links": [
+    {
+      "rel": "applies",
+      "to": "rule-c28"
+    },
+    {
+      "rel": "reopens",
+      "to": "ruling-1003-handover-drop"
+    }
+  ],
+  "plain": "The Campaign A runner's return is a source, but check where it came from first.",
+  "privacy": "none",
+  "type": "ruling"
+}

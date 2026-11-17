@@ -1,0 +1,29 @@
+{
+  "id": "run-jargon-breaker-20261007-amping-context",
+  "body": "Same specimen as run-jargon-breaker-20261005-amping, plus JayArr's context (2026-10-07): the remark usually came from male peers, about getting 'emotional' in how he responds to treatment by or of women, which he took as their assumption of how a 'man' is supposed to act. J4 'emotional': sense (b), feeling overriding sense, now fixed as 'showing feeling where a man is expected not to'; conf 75. J4/J5 'when it comes to women': now two named referents, treatment BY women and treatment OF women, so two situations stated as one. J7 plain version: 'You're not acting the way a man is supposed to when women are involved.' That is clearly less comfortable than 'you get emotional', so by J7's test the opacity does work: it enforces a norm while sounding like a description of a mood. VERDICT: AIMED (about the language; no claim about anyone's intent; I0 at most: the effect of the phrasing). Was IMPRECISION without context. FINDING ABOUT THE TOOL: the same sentence returns a different verdict once the ruler is known, so a verdict on a context-free specimen is provisional by construction. NULL: J1, J2, J3, J8 (not run), J9 (stress not recoverable).",
+  "custody": "FILED",
+  "date": "2026-10-07",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "run-jargon-breaker-20261005-amping"
+    },
+    {
+      "rel": "supports",
+      "to": "claim-octave-map-of-tension"
+    }
+  ],
+  "plain": "Re-run of the Jargon Breaker on 'emotional' with JayArr's context added: the verdict moves from IMPRECISION toward AIMED. The missing ruler turns out to be a norm for how a man should act.",
+  "privacy": "none",
+  "source_call": "JayArr: source (context supplied by him, 2026-10-07)",
+  "status": "second run (with context)",
+  "tool": "jargon-breaker",
+  "type": "run",
+  "verdict": {
+    "confidence": 70,
+    "value": "AIMED",
+    "vocabulary": "jargon"
+  }
+}

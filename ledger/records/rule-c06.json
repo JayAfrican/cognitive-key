@@ -1,0 +1,12 @@
+{
+  "id": "rule-c06",
+  "body": "Origin is not evidence. Scope note added 2026-09-24 (entry 54 §40a) — a clarification of existing meaning, not a change. This constraint governs the provenance of ideas: where an idea came from neither proves nor disproves it, in either direction. It has never governed the study of words. Origin does two jobs — where an idea came from (this constraint, A1, the ancestry audit) and where a word came from (etymology). When language is the subject, a word's history is data, governed by §1's level check and constraint 13, not by this rule. ⚠ The moment the claim leaves language, §19f's prohibition returns unchanged: no inference from shared root to shared referent, cause or jurisdiction. History is ancestry, never support.",
+  "custody": "FILED",
+  "date": "2026-09-24",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 6",
+  "plain": "Origin is not evidence.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "run-cross-pollination-intake-20261030-conflict-fear-vs-assertive",
+  "body": "0 INTAKE. Anomaly: Dimensional's narrative names 'conflict or disconnection' as a greatest fear, while the scale scores Assertive in Conflict Very high (5) and Cooperative in Conflict Average (3). Expected: a contradiction (contradicted by the sheet; prediction discarded). Arrived from: the Dimensional x AuDHD comparison, 2026-10-30. Note on the inputs: the fear is generated narrative text, not a scale score, so it carries less weight than the conflict-style scores. 1 LEVEL. Title: 'conflict'. Plot: one is a motive (valuing harmony, dreading rupture), the other a behaviour once in conflict. Theme: approach and avoidance of the same event can both be strong (approach-avoidance conflict, Lewin; Miller). Exclusion: surface without theme: a conflict of interest, armed conflict, a scheduling conflict; theme without surface: a person who dreads job interviews and interviews well; stage fright with a strong performance. Passes. 2 A1: no shared ancestry. A2: designed scales; used as self-report only. 3 FIT: not a process; T1 fails. 4a: neither term is a residual of the other (no not-/non- coinage). 4b Q1: both high at once? Yes, here. Two dimensions. Dimensional's own conflict section already scores assertiveness and cooperativeness as separate scales (the Thomas-Kilmann layout). Verdict: UNRESOLVED as a single axis; the 4b Q1 finding is two dimensions (motive to avoid rupture; assertiveness once engaged), so the opposition is false. Possible link to finding #29 (flags deferred into a bank with close people, released at once): avoid small conflicts while the bank fills, enter hard when it releases. That link is a hypothesis; the data shows only that both are high. 6 ROUTING: inversion entry. Does not license: 'I only blow up because I care so much.' Trap: that sentence. Falsifier for the bank link: if he enters conflicts assertively early and at low stakes, with no deferred flags behind them, assertiveness is plain style and the bank link fails.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-29"
+    }
+  ],
+  "plain": "Ran intake on 'fearful of conflict' vs 'Assertive in Conflict Very high': two dimensions, not a contradiction; how it links to the 'bank' finding (#29) is a hypothesis, not shown by the data.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run",
+  "tool": "cross-pollination-intake",
+  "type": "run",
+  "verdict": {
+    "value": "UNRESOLVED (4b Q1: two dimensions, motive vs behaviour); bank link (#29) a hypothesis",
+    "vocabulary": "inversion"
+  }
+}

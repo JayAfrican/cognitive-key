@@ -1,0 +1,16 @@
+{
+  "id": "ruling-0930-killswitch",
+  "custody": "RULED",
+  "date": "2026-09-30",
+  "decided_by": "jayarr",
+  "doc_ref": "campaign-e-results.md §8c-ii",
+  "links": [
+    {
+      "rel": "about",
+      "to": "entry-060"
+    }
+  ],
+  "plain": "'Plain matches frame' means the frame never beats plain on that question.",
+  "privacy": "none",
+  "type": "ruling"
+}

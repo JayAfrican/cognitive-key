@@ -1,0 +1,37 @@
+{
+  "id": "ruling-1117-findings-46-67",
+  "body": "Read-back option chosen by JayArr, 2026-11-17: 'Yes, RULED like 1–45.' Applied: 20 findings to RULED; 61 (rests on Pete Walker's clinical concept 'fawn') and 67 (the mirror's proposed wording, agreed to try, untested) to MIXED with the seam named, matching how 20 and 25 were handled on 2026-10-12. Check: check-46-67-2026-11-17.md.",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "check-46-67-2026-11-17.md",
+  "links": [
+    {
+      "rel": "about",
+      "to": "finding-audhd-46"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-49"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-58"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-61"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-64"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-67"
+    }
+  ],
+  "plain": "Findings 46–67 follow 1–45: RULED as his findings after the research check, with the evidence type kept on each record.",
+  "privacy": "none",
+  "type": "ruling"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claim-octave-purpose",
+  "body": "RULED 2026-10-07, his own statement, tightened and read back (\"Yes, file it\"): \"The Octave is a map of my own regulation that I built without meaning to: eight stages describing how my brain actually runs, worked out before I knew AuDHD was a thing, at first by comparison with 'neurotypical' material we've since moved past. Its job now is to understand my mind's natural cadence, so I can manage my energy, avoid dysregulation, and know how to reregulate.\" His original words: \"a system I unintentionally developed as an understanding of how I regulate, the figuring out that I was AuDHD before I even knew that was a thing… I now understand it on a deeper level of how I understand my mind and the natural cadence of my brain in an attempt to understand how to manage my energy to avoid dysregulation, and how to reregulate.\"",
+  "custody": "RULED",
+  "date": "2026-10-07",
+  "decided_by": "jayarr",
+  "doc_ref": "session-brief.md §1",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "claim-octave-container"
+    },
+    {
+      "rel": "supersedes",
+      "to": "claim-octave-map-of-tension"
+    }
+  ],
+  "plain": "The Octave is a map of JayArr's own regulation, built without meaning to, for managing his energy, avoiding dysregulation and knowing how to reregulate.",
+  "privacy": "none",
+  "source_call": "JayArr: source",
+  "type": "claim"
+}

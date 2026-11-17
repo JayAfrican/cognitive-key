@@ -1,0 +1,20 @@
+{
+  "id": "ruling-1003-reclaim",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 D1",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c18"
+    },
+    {
+      "rel": "about",
+      "to": "entry-041"
+    }
+  ],
+  "plain": "The reclaiming-words rule stays: only the people a word was used on can reclaim it.",
+  "privacy": "none",
+  "type": "ruling"
+}

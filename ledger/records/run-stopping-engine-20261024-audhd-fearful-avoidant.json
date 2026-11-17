@@ -1,0 +1,19 @@
+{
+  "id": "run-stopping-engine-20261024-audhd-fearful-avoidant",
+  "body": "Input (stripped of personal context): an 8-row table comparing AuDHD vs fearful-avoidant (FA) patterns across communication, work, decisions, intimacy, conflict, insight, support, regulation, plus a 'core dynamic' and 'tragedy' conclusion. Steps run: 1, 2, 3, 6. Step 1: closing conclusion ('neither can sustain the conditions for change without external structure neither can provide') halts NOT EVEN WRONG — any change gets credited to 'external structure', so no outcome counts against it. Step 2: restated (steelman) — table treats AuDHD and FA as two separate partners, but they are traits one person can hold together; FA is treated as a fixed category though adult attachment is measured on two continuous dimensions (anxiety, avoidance). Step 3: no sources; reads as generated synthesis. Decision-making row ('felt sense, internal timing'; 'borrows external urgency') and insight row ('shame collapses insight') have no literature behind them; 'felt sense' runs against the alexithymia/interoception findings common in autism. Regulation row contradicts itself: both columns describe needing space, yet the combined column says one needs presence. Step 6: intimacy-overwhelm, approach-avoidance, real-time processing, shutdown rows point at real findings but are written as universal with no magnitude. Measurement confound: autistic traits correlate with higher self-reported avoidance and anxiety on attachment scales, so the two columns may double-count one thing. Falsifier: couples with this mix who adopt structure (async/written check-ins, couples therapy) and show sustained change would falsify the fatalistic close.",
+  "custody": "FILED",
+  "date": "2026-10-24",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "plain": "Screened a generated table pairing AuDHD and fearful-avoidant attachment patterns in relationships; rows are overstated and the closing 'tragedy' conclusion is unfalsifiable as framed.",
+  "privacy": "own_pii",
+  "source_call": "asked, awaiting his answer",
+  "status": "early run",
+  "tool": "stopping-engine",
+  "type": "run",
+  "verdict": {
+    "confidence": 0.7,
+    "value": "OVERSTATED at step 6 (table); NOT EVEN WRONG at step 1 (closing conclusion); restated at 2, unsupported rows at 3",
+    "vocabulary": "screen"
+  }
+}

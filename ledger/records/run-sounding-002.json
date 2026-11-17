@@ -1,0 +1,17 @@
+{
+  "id": "run-sounding-002",
+  "custody": "FILED",
+  "date": "2026-09-30",
+  "decided_by": "mirror",
+  "doc_ref": "sounding-runs.md Run 2",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-octave-container"
+    }
+  ],
+  "plain": "Sounding on the Octave book: over-dressed; the eight doesn't appear in how the framework works.",
+  "privacy": "none",
+  "type": "run"
+}

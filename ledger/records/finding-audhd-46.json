@@ -1,0 +1,27 @@
+{
+  "id": "finding-audhd-46",
+  "body": "AuDHD finding 46 of 67, from JayArr's Oct 15 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Research tags checked 2026-11-17 (see 'verified' and 'research_check').",
+  "custody": "RULED",
+  "date": "2026-10-15",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence": "Published research: Holmes et al. 2005, Clinical Psychology Review 25:1–23 ('Are there two qualitatively distinct forms of dissociation?'); DSM-5",
+  "evidence_kind": "framework run (Recoherence) + research",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-recoherence-20261015-dissociation"
+    }
+  ],
+  "plain": "\"Dissociation\" has one real theme across its psychological senses: a functional disconnection where part of ongoing experience runs without its felt connection to the self. The axis is which link is cut, self-to-inner or self-to-world.",
+  "privacy": "none",
+  "research_check": "Verified.",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: research tags checked by the mirror against named published sources"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "finding-audhd-25",
+  "body": "AuDHD finding 25 of 45, from JayArr's Oct 7–10 2026 AuDHD learning session ('AuDHD Findings — Unification', https://claude.ai/artifact/7rFbUeV4dr27Bp7dzmkyfy). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-11, prompted under constraint 28).",
+  "custody": "MIXED",
+  "date": "2026-10-10",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/artifact/7rFbUeV4dr27Bp7dzmkyfy",
+  "evidence_kind": "hypothesis + unsourced research claim",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "Metacognition and dissociation plausibly share monitoring circuitry with opposite relationships to feeling. Dissociation is learned through repeated inescapable stress.",
+  "privacy": "none",
+  "seam": "His finding (source). 'Dissociation is learned through repeated inescapable stress' reads as a research claim but no named source has been checked; it sits in clinical-term territory (constraint 17)",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending",
+  "type": "claim",
+  "verified": "2026-10-12: research tags checked against named published sources by the mirror"
+}

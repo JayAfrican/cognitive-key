@@ -1,0 +1,23 @@
+{
+  "id": "finding-audhd-49",
+  "body": "AuDHD finding 49 of 67, from JayArr's Oct 19 2026 AuDHD session ('AuDHD Findings — Unification', https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc). Long form, sections and evidence tags live in that doc. Source (JayArr, 2026-10-24, prompted under constraint 28). Custody FILED: source call made, content not yet ruled. Research tags checked 2026-11-17 (see 'verified' and 'research_check').",
+  "custody": "RULED",
+  "date": "2026-10-19",
+  "decided_by": "jayarr",
+  "doc_ref": "audhd-findings-unification.md · https://claude.ai/code/artifact/37774554-b8d4-4945-97ea-2d57f26a9fcc",
+  "evidence": "Published research: Bechara, Damasio, Tranel & Damasio 1997, Science 275:1293 (Iowa Gambling Task: bodily signals before conscious knowledge)",
+  "evidence_kind": "research + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "claim-octave-purpose"
+    }
+  ],
+  "plain": "Pattern detection runs body first: a feeling, then an image of pieces that don't line up, then recognition (somatic marker hypothesis).",
+  "privacy": "none",
+  "research_check": "Verified, with a caveat: the somatic marker hypothesis is contested. Dunn, Dalgleish & Lawrence 2006 (Neurosci Biobehav Rev) and Maia & McClelland 2004 (PNAS) found participants knew more consciously than claimed. 'Body first' is a supported reading, not a settled mechanism.",
+  "source_call": "JayArr: source",
+  "status": "unify: placement on the Octave pending · custody per ruling-1117-findings-46-67",
+  "type": "claim",
+  "verified": "2026-11-17: research tags checked by the mirror against named published sources"
+}

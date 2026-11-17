@@ -1,0 +1,11 @@
+{
+  "id": "rule-c12",
+  "body": "Blind runs require NO project attached. See §6.",
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 12",
+  "plain": "Blind runs require NO project attached.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

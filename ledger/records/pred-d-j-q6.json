@@ -1,0 +1,21 @@
+{
+  "id": "pred-d-j-q6",
+  "confidence": 40,
+  "custody": "RULED",
+  "decided_by": "jayarr",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-d"
+    }
+  ],
+  "plain": "About a third of answers come back UNKNOWN.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "HELD",
+    "vocabulary": "prediction"
+  }
+}

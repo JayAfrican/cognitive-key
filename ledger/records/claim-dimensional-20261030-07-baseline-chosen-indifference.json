@@ -1,0 +1,29 @@
+{
+  "id": "claim-dimensional-20261030-07-baseline-chosen-indifference",
+  "body": "Agreement 7 of 10 from the Dimensional x AuDHD findings comparison (Overlap tab, Jayarr — Dimensional Profile). Matches: Findings #13 and #31. Nature: consistency between two self-reports (the findings and a self-report app), not confirmation. Levels measured from the app's 5-segment bars.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "doc_ref": "Jayarr — Dimensional Profile (Claude Docs), Overlap tab",
+  "evidence": "Dimensional app self-report, 2026-10-30 (see entry-20261030-dimensional-source)",
+  "evidence_kind": "app self-report + experience",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-31"
+    },
+    {
+      "rel": "about",
+      "to": "finding-audhd-13"
+    }
+  ],
+  "plain": "Dimensional's calm results fit baseline and chosen indifference: Relaxed and Satisfied Very high; Chillness, Low Anxiety and Emotional Stability High.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "consistency with AuDHD findings; content not ruled",
+  "type": "claim"
+}

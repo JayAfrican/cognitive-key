@@ -1,0 +1,21 @@
+{
+  "id": "ruling-1007-case-by-case",
+  "body": "JayArr, 2026-10-07: \"the scaffold ruling should be case by case basis meaning im prompted for certainty on whther its scaffolding or a source.\" This withdraws the 'outside = scaffolding' default in the original constraint 28 wording, and the default the mirror had written into the package (v0.1.0 → v0.1.1).",
+  "custody": "RULED",
+  "date": "2026-10-07",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md row 53 · session-brief.md constraint 28",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c28"
+    },
+    {
+      "rel": "supersedes",
+      "to": "ruling-1003-ask-each-time"
+    }
+  ],
+  "plain": "Source or scaffolding is case by case. JayArr is prompted for certainty every time; there is no default.",
+  "privacy": "none",
+  "type": "ruling"
+}

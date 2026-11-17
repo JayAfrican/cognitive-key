@@ -1,0 +1,12 @@
+{
+  "id": "task-jargon-first-run",
+  "body": "Done 2026-10-05: run-jargon-breaker-20261005-amping (first logged run).",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "owner": "mirror",
+  "plain": "Log the Jargon Breaker's first run.",
+  "privacy": "none",
+  "status": "closed",
+  "type": "task"
+}

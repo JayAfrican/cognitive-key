@@ -1,0 +1,21 @@
+{
+  "id": "pred-e-m-q4",
+  "confidence": 60,
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-campaign-e-gemini"
+    }
+  ],
+  "plain": "The frame beats plain on cost on two of three sentences.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "type": "prediction",
+  "verdict": {
+    "value": "FAILED",
+    "vocabulary": "prediction"
+  }
+}

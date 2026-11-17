@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-closing",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 B5",
+  "links": [
+    {
+      "rel": "about",
+      "to": "task-book-v25"
+    }
+  ],
+  "plain": "The book's closing line becomes: Tested on machines. Next: people.",
+  "privacy": "none",
+  "type": "ruling"
+}

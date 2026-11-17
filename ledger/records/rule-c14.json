@@ -1,0 +1,12 @@
+{
+  "id": "rule-c14",
+  "body": "Every REFUTED must state the sense in which the claim was taken and say why OVERSTATED was rejected. (2026-09-09, Inversion Log §21f.)",
+  "custody": "FILED",
+  "date": "2026-09-09",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 14",
+  "plain": "Every REFUTED must state the sense in which the claim was taken and say why OVERSTATED was rejected.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

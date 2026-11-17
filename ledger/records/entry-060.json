@@ -1,0 +1,13 @@
+{
+  "id": "entry-060",
+  "custody": "MIXED",
+  "date": "2026-09-30",
+  "decided_by": "mixed",
+  "doc_ref": "inversion-log.md §46",
+  "plain": "Campaign E, provisional · T4 on the frame FAILS against a capable model",
+  "plain_source": "title",
+  "privacy": "none",
+  "register_basis": "Round 1 (ChatGPT) withdrawn — chat-history contaminated. Gemini + ChatGPT Temp: PARTIAL PASS both, 10 of 30, same shape — Q2 carries it. Cuts against the mirror's predictions, admissible. campaign-e-results.md §10",
+  "seam": "CORROBORATED (two clean runs, two models) · scoring FILED · kill-switch reading RULED",
+  "type": "entry"
+}

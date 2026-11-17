@@ -1,0 +1,12 @@
+{
+  "id": "entry-043",
+  "custody": "CORROBORATED",
+  "date": "2026-09-10",
+  "decided_by": "blind",
+  "doc_ref": "inversion-log.md §29",
+  "plain": "The retest. Three purpose-built traps, no FAIL — and the test design broke where the instrument did not.",
+  "plain_source": "title",
+  "privacy": "none",
+  "register_basis": "Two blind sessions",
+  "type": "entry"
+}

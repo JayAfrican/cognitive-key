@@ -1,0 +1,13 @@
+{
+  "id": "entry-007",
+  "custody": "FILED",
+  "date": "2026-09-05",
+  "decided_by": "mirror",
+  "doc_ref": "inversion-log.md §4",
+  "plain": "Discrete vs continuous input (D-pad vs analog stick): both are correct for different jobs, and the discrete one is not the lesser.",
+  "plain_source": "written",
+  "privacy": "none",
+  "register_basis": "Bookkeeping. §6a and §6b are both records of it going wrong",
+  "type": "entry",
+  "verdict_text": "TRUE DICHOTOMY"
+}

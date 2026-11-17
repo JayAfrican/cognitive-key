@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-layers",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "build-plan-2026-10-02.md §8",
+  "links": [
+    {
+      "rel": "about",
+      "to": "entry-064"
+    }
+  ],
+  "plain": "Voice input is plumbing and predictions are the tester; neither is part of the framework.",
+  "privacy": "none",
+  "type": "ruling"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "issue-01",
+  "custody": "FILED",
+  "date": "2026-10-01",
+  "decided_by": "mirror",
+  "doc_ref": "ruled-or-filed.md §5d",
+  "plain": "Two rules disagreed about material JayArr supplies (treat as sample vs treat as data). Closed by constraint 28: ask him each time.",
+  "privacy": "none",
+  "status": "closed",
+  "type": "issue"
+}

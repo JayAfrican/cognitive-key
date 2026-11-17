@@ -1,0 +1,11 @@
+{
+  "id": "rule-c15",
+  "body": "Fix the sense of every key term before running an exclusion test, and record which sense. (Same day, same cause.)",
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 15",
+  "plain": "Fix the sense of every key term before running an exclusion test, and record which sense.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

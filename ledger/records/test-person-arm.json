@@ -1,0 +1,17 @@
+{
+  "id": "test-person-arm",
+  "custody": "FILED",
+  "decided_by": "mirror",
+  "doc_ref": "campaign-e-person-arm.md",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-frame-adds"
+    }
+  ],
+  "plain": "Campaign E person arm: the ruler page with one real reader. Pending.",
+  "privacy": "none",
+  "status": "open",
+  "type": "run"
+}

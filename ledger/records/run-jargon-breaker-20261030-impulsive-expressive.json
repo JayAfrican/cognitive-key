@@ -1,0 +1,29 @@
+{
+  "id": "run-jargon-breaker-20261030-impulsive-expressive",
+  "body": "INPUT: Dimensional labels 'Impulse: Impulsive' and 'Communication: Expressive' (30 Oct 2026). FIRED: J4 'impulsive': (a) decides and acts quickly with little deliberation, (b) can't hold back urges. Sense the label needs to be true: (a), given the Deliberation facet Low and nothing measuring loss of control; listeners hear (b). Conf 60; wrong if the app's items ask about regret or acting against one's own interest. J4 'expressive': (a) shows thoughts and feelings openly, (b) has no output filter. Posited (a): it is one pole of Cautious/Mix/Expressive, a communication style. Conf 70; wrong if its items describe saying things one later wishes unsaid. J7 plain version: 'When you answered, you described deciding fast and saying what you think and feel openly, more than most Dimensional users do.' Equally comfortable as the original, so HABIT. NULL: J1, J2 (no deleted actor), J3 (no residual term), J5 (referents can be posited), J6 (the phrasing serves a consumer app's need for crisp labels; no other party loses), J8 (no Latinate construction doing work), J9 (written, not spoken). VERDICT: HABIT, about the language only.",
+  "custody": "FILED",
+  "date": "2026-10-30",
+  "decided_by": "mirror",
+  "layer": "framework",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "entry-20261030-dimensional-source"
+    },
+    {
+      "rel": "derived_from",
+      "to": "run-five-questions-20261030-impulsive-label"
+    }
+  ],
+  "plain": "Jargon Breaker on Dimensional's 'Impulsive' and 'Expressive': ordinary app shorthand (HABIT); 'expressive' most likely means open, not ungated.",
+  "privacy": "none",
+  "source_call": "JayArr: source (2026-10-30, prompted under constraint 28)",
+  "status": "early run (UNTESTED tool)",
+  "tool": "jargon-breaker",
+  "type": "run",
+  "verdict": {
+    "confidence": 65,
+    "value": "HABIT",
+    "vocabulary": "jargon"
+  }
+}

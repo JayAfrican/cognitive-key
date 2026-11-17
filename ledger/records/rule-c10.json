@@ -1,0 +1,12 @@
+{
+  "id": "rule-c10",
+  "body": "No result enters any log without a retrievable record of the run that produced it. (After the fabrication, 2026-09-06.)",
+  "custody": "FILED",
+  "date": "2026-09-06",
+  "decided_by": "mirror",
+  "doc_ref": "session-brief.md §4 constraint 10",
+  "plain": "No result enters any log without a retrievable record of the run that produced it.",
+  "plain_source": "first sentence",
+  "privacy": "none",
+  "type": "rule"
+}

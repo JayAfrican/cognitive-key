@@ -1,0 +1,16 @@
+{
+  "id": "ruling-1003-ban-width",
+  "custody": "RULED",
+  "date": "2026-10-03",
+  "decided_by": "jayarr",
+  "doc_ref": "ruled-or-filed.md §6 A4",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c30"
+    }
+  ],
+  "plain": "Every ban is only as wide as its reasons.",
+  "privacy": "none",
+  "type": "ruling"
+}
