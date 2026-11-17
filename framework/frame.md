@@ -1,6 +1,8 @@
 # The Framework
 
-**Canonical file 1 of the framework (code phase 3). Drafted 2026-11-17 from the rulings only; nothing here is new.** Each section says who settled it. **The file as a whole is FILED until JayArr reads it and rules on it.**
+**Canonical file 1 of the framework (code phase 3). Built 2026-11-17 from the rulings only; nothing here is new.** Each section says who settled it.
+
+**RULED 2026-11-17 as a whole.** JayArr read it and chose *"Yes, rule it"*. This is now the master statement of what the Framework is, and older documents defer to it. The tools table stays FILED inside it: their procedures still need ruling one by one, in their own files.
 
 ---
 

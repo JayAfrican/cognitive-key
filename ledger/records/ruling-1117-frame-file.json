@@ -1,0 +1,29 @@
+{
+  "id": "ruling-1117-frame-file",
+  "body": "Read back as the whole file; JayArr chose 'Yes, rule it', 2026-11-17. Built only from earlier rulings (0925 frame, 1003 layers and rewrite, 1007 fusion and lenses, 1011 cycle and Octave scope). The tools table inside it stays FILED.",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "framework/frame.md (repo JayAfrican/cognitive-key; project copy claude/code/framework/frame.md)",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "ruling-0925-frame"
+    },
+    {
+      "rel": "supports",
+      "to": "ruling-1011-framework-cycle"
+    },
+    {
+      "rel": "supports",
+      "to": "claim-fusion-and-lenses"
+    },
+    {
+      "rel": "supports",
+      "to": "ruling-1003-layers"
+    }
+  ],
+  "plain": "framework/frame.md is the master statement of what the Framework is: the cycle, the five questions, parallel lenses and the three layers.",
+  "privacy": "none",
+  "type": "ruling"
+}

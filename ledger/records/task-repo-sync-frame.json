@@ -1,0 +1,12 @@
+{
+  "id": "task-repo-sync-frame",
+  "custody": "FILED",
+  "date": "2026-11-17",
+  "decided_by": "mirror",
+  "doc_ref": "claude/code/framework/frame.md",
+  "owner": "mirror",
+  "plain": "Copy framework/frame.md and the two new Ledger records (ruling-1117-frame-file, task-repo-sync-frame) from the project into the GitHub repo; they were made after the push.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}
