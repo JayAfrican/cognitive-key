@@ -1,4 +1,8 @@
-# Restoring the repository in a new session (until GitHub is connected)
+# Restoring the repository in a new session
+
+**Home:** https://github.com/JayAfrican/cognitive-key (private, created 2026-11-17). Once it holds the code, clone it and ignore the steps below.
+
+## Until the first push
 
 The code lives in the project as `claude/code/*`. The records live in the Ledger page.
 
