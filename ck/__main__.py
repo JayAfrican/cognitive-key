@@ -3,6 +3,7 @@
     python -m ck check            run every rule over the Ledger; exit 1 on any problem
     python -m ck status           where everything stands: waiting on JayArr, owed by the mirror, recent
     python -m ck export-ledger    write the Ledger page's batch file (the page is a view of this repo)
+    python -m ck findings         regenerate framework/findings.md from the AuDHD finding records
 """
 from __future__ import annotations
 
@@ -93,6 +94,10 @@ def main(argv: list[str]) -> int:
         return cmd_check()
     if cmd == "status":
         return cmd_status()
+    if cmd == "findings":
+        from . import findings
+        print("wrote", findings.write())
+        return 0
     if cmd == "export-ledger":
         return cmd_export_ledger(*argv[2:3])
     print(__doc__)

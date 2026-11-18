@@ -1,5 +1,6 @@
 {
   "id": "task-unification-doc-sync",
+  "body": "Done 2026-11-17 another way: framework/findings.md lists all 67, generated from the Ledger (`python -m ck findings`). audhd-findings-unification.md stays as the record of the 10-11 unification.",
   "custody": "FILED",
   "date": "2026-11-17",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "mirror",
   "plain": "Bring the project's audhd-findings-unification.md up to 67 findings (it records 45).",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "task"
 }
