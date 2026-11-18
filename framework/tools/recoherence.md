@@ -6,7 +6,7 @@
 >
 > **Custody:** The name is RULED (his, 2026-09-20). The procedure is the mirror's; it hasn't had a custody pass.
 >
-> **Status of this file:** awaiting JayArr's ruling.
+> **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.
 
 ---
 

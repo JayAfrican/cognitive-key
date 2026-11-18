@@ -2,7 +2,7 @@
 
 **Canonical file 1 of the framework (code phase 3). Built 2026-11-17 from the rulings only; nothing here is new.** Each section says who settled it.
 
-**RULED 2026-11-17 as a whole.** JayArr read it and chose *"Yes, rule it"*. This is now the master statement of what the Framework is, and older documents defer to it. The tools table stays FILED inside it: their procedures still need ruling one by one, in their own files.
+**RULED 2026-11-17 as a whole.** JayArr read it and chose *"Yes, rule it"*. This is now the master statement of what the Framework is, and older documents defer to it. The tools were ruled the same day, in their own files.
 
 ---
 
@@ -46,9 +46,9 @@ A way of taking something apart (a sentence about a person, a claim, a system, a
 
 **And the Octave isn't the Framework (RULED 2026-10-11).** The Octave maps *you*, the person running the Framework. Keeping them apart keeps the check outside.
 
-## The tools · FILED (their procedures are the mirror's, mostly unreviewed)
+## The tools · RULED 2026-11-17 as his tools (steps open to correction by tests)
 
-The specialised instruments for the deconstruct step. Each has its own canonical file to come.
+The specialised instruments for the deconstruct step. Each has its own canonical file in `tools/`.
 
 | Tool | For | Test record |
 |---|---|---|

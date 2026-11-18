@@ -6,7 +6,7 @@
 >
 > **Custody:** The five questions are RULED (2026-09-25), and so is the rewrite step (2026-10-03). This file is the procedure that runs them, written by the mirror.
 >
-> **Status of this file:** awaiting JayArr's ruling.
+> **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.
 
 ---
 

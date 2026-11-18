@@ -1,0 +1,17 @@
+{
+  "id": "ruling-1117-two-poles-hold",
+  "body": "Read back as 'Keep the hold for now'; JayArr chose it, 2026-11-17.",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "tester/plans/two-poles-law.md",
+  "links": [
+    {
+      "rel": "about",
+      "to": "test-two-poles-law"
+    }
+  ],
+  "plain": "The SAFETY HOLD stays on: the two-poles law test is written and ready, but not run.",
+  "privacy": "none",
+  "type": "ruling"
+}

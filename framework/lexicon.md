@@ -1,6 +1,6 @@
 # Lexicon
 
-**Canonical file. Built 2026-11-17 from `lexicon-state.md` (2026-09-23) and every ruling since.** Where the old lexicon and a later ruling disagree, the ruling wins, and the row says so. **Custody per row.**
+**Canonical file. Built 2026-11-17 from `lexicon-state.md` (2026-09-23) and every ruling since. RULED 2026-11-17:** *"Lexicon MD says what my words mean."* Section 4 stays candidates and section 5 stays FILED, as they're labelled. Where the old lexicon and a later ruling disagree, the ruling wins, and the row says so. **Custody per row.**
 
 ---
 
@@ -55,7 +55,7 @@
 | ~~Ego / soul~~ | Self/content defusion: continuous and trainable | | |
 | ~~Thinkers / feelers~~ | Not supported as types | Entry 4 | |
 | ~~Entrainment, phase-lock between people~~ | Co-regulation via social appraisal | | |
-| ~~Quantum anything: removed entirely~~ | **Quantum physics may be discussed, never used to support a claim about minds; say plainly why when it's ruled out** | **Constraint 29, RULED 10-03** | The old "removed entirely" was wider than its reasons (constraint 30) |
+| ~~Quantum anything: removed entirely~~ | **Quantum physics may be discussed. It isn't ruled out, but it can't yet carry a claim about minds: if a claim needs quantum physics to work, it hasn't been shown yet.** When it's set aside, say plainly why | **Constraint 29, RULED 10-03; wording confirmed 11-17**: *"Never is a strong word. Let's not completely rule it out for now"* | The old "removed entirely" was wider than its reasons (constraint 30) |
 | ~~Citing NLP~~ | Cite the mechanism and its real source | Constraint 19 | The J1 denominalisation credit is the only permitted appearance |
 | ~~Engine B of the Reframer~~ | The Jargon Breaker | Split 09-11 | |
 

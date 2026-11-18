@@ -6,7 +6,7 @@
 >
 > **Custody:** The name is RULED (his). The rest of the procedure is the mirror's: 19 FILED and 2 MIXED items at the 2026-10-01 custody pass. **issue-03:** the older document cites a calibration set and a run its own "missing" section says don't exist.
 >
-> **Status of this file:** awaiting JayArr's ruling.
+> **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.
 
 ---
 

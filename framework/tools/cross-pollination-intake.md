@@ -6,7 +6,7 @@
 >
 > **Custody:** Procedure mostly the mirror's: 17 FILED and 3 MIXED items in the method document, 19 FILED in the run sheet; **2 CORROBORATED** (defects found by blind users).
 >
-> **Status of this file:** awaiting JayArr's ruling.
+> **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.
 
 ---
 

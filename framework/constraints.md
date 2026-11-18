@@ -2,7 +2,7 @@
 
 **Canonical file. Generated 2026-11-17 from the Ledger's `rule-c01`…`rule-c30` records; the Ledger is the source, so edit there and regenerate.**
 
-**Custody, honestly:** 9 RULED · 4 MIXED · 17 FILED. The FILED ones are the mirror's and may not be quoted to JayArr as his rules. **Safety rules (3, 4) hold whatever their tier.**
+**Custody, honestly:** 9 RULED · 4 MIXED · 17 FILED. The FILED ones are the mirror's and may not be quoted to JayArr as his rules. **His call, 2026-11-17: they stay FILED for now, to review later.** **Safety rules (3, 4) hold whatever their tier.**
 
 | # | Constraint | Custody |
 |---|---|---|

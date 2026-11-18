@@ -6,7 +6,7 @@
 >
 > **Custody:** The procedure is the mirror's: 7 FILED and 2 MIXED items. **issue-05:** it lists a different mechanism #11 from the Stopping Engine.
 >
-> **Status of this file:** awaiting JayArr's ruling.
+> **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.
 
 ---
 

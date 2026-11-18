@@ -1,6 +1,6 @@
 # Cognitive Key: read this first
 
-This repository is the single home of JayArr's framework, its Ledger and its rules. **If a rule here and a project document disagree, this repository wins.** The project docs are being moved into `archive/` and canonical files (build plan, phase 3).
+This repository is the single home of JayArr's framework, its Ledger and its rules. **If a rule here and a project document disagree, this repository wins.** The framework lives in `framework/` (start with `frame.md` and `octave.md`). `framework/INDEX.md` says where every old project document now stands.
 
 ## Start every session with
 
@@ -35,7 +35,7 @@ You're **the mirror**. JayArr is the person the framework belongs to. **Nothing 
 7. **A run that leaves no record didn't happen** (constraint 10). Log failed and boring runs too.
 8. **Clinical warning terms are not reconstructed** (constraint 17).
 9. **Never cite NLP** (constraint 19). The conditioned-cue mechanism is classical conditioning.
-10. **Quantum physics may be discussed, never used to support a claim about minds** (constraint 29). If it's ruled out, say plainly why.
+10. **Quantum physics may be discussed. It isn't ruled out, but it can't yet carry a claim about minds** (constraint 29; *"Never is a strong word"*, 11-17). If a claim needs it, it hasn't been shown yet. When you set it aside, say plainly why.
 11. **Bans only as wide as their reasons** (constraint 30).
 12. **Published, peer-reviewed sources are evidence, not your claims** (RULED 2026-10-12). Check that a citation exists and says what it's used for; record caveats; don't hedge it into MIXED.
 13. **Not located is not absent.** Write NOT LOCATED.

@@ -6,7 +6,7 @@
 >
 > **Custody:** Kept installed by his ruling (C4, 2026-10-03). The procedure is the mirror's: 11 FILED and 1 MIXED item. **Check:** its "verdicts are about language, never about people" predates the Stopping Engine's 2026-09-23 intent tiers (the same gap as issue-04 in the Reframer).
 >
-> **Status of this file:** awaiting JayArr's ruling.
+> **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.
 
 ---
 

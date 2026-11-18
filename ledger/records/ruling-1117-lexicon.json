@@ -1,0 +1,17 @@
+{
+  "id": "ruling-1117-lexicon",
+  "body": "JayArr, 2026-11-17: 'Never is a strong word. Let's not completely rule it out for now… Lexicon MD says what my words mean.' Applied: the quantum row and CLAUDE.md now use constraint 29's own wording (not shown yet, rather than never). Candidates (§4) and publishing rules (§5) keep their own labels.",
+  "custody": "RULED",
+  "date": "2026-11-17",
+  "decided_by": "jayarr",
+  "doc_ref": "framework/lexicon.md",
+  "links": [
+    {
+      "rel": "about",
+      "to": "rule-c29"
+    }
+  ],
+  "plain": "framework/lexicon.md says what his words mean. Quantum physics isn't ruled out: it can't yet carry a claim about minds.",
+  "privacy": "none",
+  "type": "ruling"
+}
