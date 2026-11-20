@@ -1,5 +1,6 @@
 {
   "id": "task-repo-sync-frame",
+  "body": "Done 2026-11-19: the 11-17 bundle fast-forwarded GitHub main from ae4b25c to 5154b07 (9 commits); ck check 0 problems, 16 tests passed. The 11-20 b and c bundles followed (main at c216cf1).",
   "custody": "FILED",
   "date": "2026-11-17",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "mirror",
   "plain": "Bring the GitHub repo up to date from the bundle cognitive-key-2026-11-17.bundle (everything since the first push).",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "task"
 }
