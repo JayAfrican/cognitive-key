@@ -1,5 +1,6 @@
 {
   "id": "pred-br-t5-purr",
+  "body": "Final answer stop at C1; the opening line said C6 (defect D6).",
   "confidence": 85,
   "custody": "FILED",
   "date": "2026-11-20",
@@ -15,10 +16,10 @@
   "plain": "Cat's purr / mortgage rate stops at C1 or C2.",
   "privacy": "none",
   "seam": "Sealed before the run; scoring by the mirror.",
-  "status": "open",
+  "status": "scored 2026-11-20",
   "type": "prediction",
   "verdict": {
     "vocabulary": "prediction",
-    "value": "OPEN"
+    "value": "HELD"
   }
 }

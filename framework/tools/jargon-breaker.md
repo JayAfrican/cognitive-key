@@ -4,6 +4,8 @@
 >
 > **Test record:** **Not blind-tested.** 3 logged runs: IMPRECISION and then AIMED on the "amping" sentence (2026-10-05 and 10-07), HABIT on Dimensional's labels (2026-10-30).
 >
+> **Latest:** **Blind, 2026-11-20 (T3):** 4 of 4 verdicts right, including a plain control that came back HABIT.
+>
 > **Custody:** Kept installed by his ruling (C4, 2026-10-03). The procedure is the mirror's: 11 FILED and 1 MIXED item. **Check:** its "verdicts are about language, never about people" predates the Stopping Engine's 2026-09-23 intent tiers (the same gap as issue-04 in the Reframer).
 >
 > **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.

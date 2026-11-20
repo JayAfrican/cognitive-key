@@ -4,6 +4,8 @@
 >
 > **Test record:** **Not tested.** 1 generative run (Self-direction vs Dutifulness, 2026-10-30): stopped at its first check, C1.
 >
+> **Latest:** **Blind, 2026-11-20 (T5):** a nonsense pair stopped at C1 (right); jet lag vs night-shift *fatigue* stopped at C1 too, because the pack paired a condition with a symptom. Rerun pending.
+>
 > **Custody:** The procedure is the mirror's: 7 FILED and 2 MIXED items. **issue-05:** it lists a different mechanism #11 from the Stopping Engine.
 >
 > **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.

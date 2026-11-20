@@ -15,10 +15,10 @@
   "plain": "'No comparison named' survives in 3 of 3.",
   "privacy": "none",
   "seam": "Sealed before the run; scoring by the mirror.",
-  "status": "open",
+  "status": "scored 2026-11-20",
   "type": "prediction",
   "verdict": {
     "vocabulary": "prediction",
-    "value": "OPEN"
+    "value": "HELD"
   }
 }

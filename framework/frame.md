@@ -30,7 +30,7 @@ A way of taking something apart (a sentence about a person, a claim, a system, a
 | 4 | **What does the step cost?** |
 | 5 | **Who holds the pen, and who pays for the error?** |
 
-**What testing shows so far · CORROBORATED (Campaign E, two blind runs on two models):** question 2 is the one capable readers skip, so it carries most of the value. **Still untested on a person:** that's the Two Sentences test.
+**What testing shows so far · CORROBORATED (Campaign E, two blind runs on two models):** question 2 is the one capable readers skip, so it carries most of the value. **Blind, 2026-11-20:** with the rewrite step added, the rewrite came back 3 of 3; without it, 0 of 6. **Still untested on a person:** that's the Two Sentences test.
 
 ## The design rule: parallel lenses · RULED 2026-10-07
 
@@ -54,10 +54,10 @@ The specialised instruments for the deconstruct step. Each has its own canonical
 |---|---|---|
 | **Stopping Engine** | A claim ("studies show…") | Blind-tested: Campaigns B, B retest, C |
 | **Cross-pollination intake** | A pair said to be opposites, or the same | Blind-tested: Campaign A, 18 runs |
-| **Recoherence** | One word with many senses | 5 runs, none blind |
-| **Sounding** | A whole system | 3 runs |
-| **Jargon Breaker** | Language that won't say who did what to whom | 3 logged runs, none blind |
-| **Axis Search** | Two unrelated things: is there one dimension under both? | 1 run, stopped at its first check |
+| **Recoherence** | One word with many senses | 5 runs + 2 blind (2026-11-20): refused a false theme, and refused a real family |
+| **Sounding** | A whole system | 3 runs + 1 blind on another model: LOAD-BEARING on the null case |
+| **Jargon Breaker** | Language that won't say who did what to whom | 3 runs + 1 blind: 4 of 4 verdicts right |
+| **Axis Search** | Two unrelated things: is there one dimension under both? | 1 run + 2 blind: refused a nonsense pair; rerun pending on a real one |
 
 ## What would show it's useless · from §0.7, RULED 2026-09-25
 

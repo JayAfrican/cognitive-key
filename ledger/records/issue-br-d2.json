@@ -1,0 +1,12 @@
+{
+  "id": "issue-br-d2",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/results/blind-runs-results-2026-11-20.md §4",
+  "owner": "mirror",
+  "plain": "T4 didn't fix the set of meanings, and Recoherence's verdicts have no slot for a family of meanings.",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

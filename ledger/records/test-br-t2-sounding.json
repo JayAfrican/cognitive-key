@@ -1,12 +1,14 @@
 {
   "id": "test-br-t2-sounding",
-  "custody": "FILED",
+  "body": "LOAD-BEARING on the periodic table, on signed-out ChatGPT. Floor at rung 6; null line rung 1. Results: tester/results/blind-runs-results-2026-11-20.md · recheck: blind-runs-recheck-2026-11-20.md · transcripts in the same folder.",
+  "custody": "MIXED",
   "date": "2026-11-20",
-  "decided_by": "mirror",
+  "decided_by": "mixed",
   "doc_ref": "tester/plans/blind-runs-2026-11-20.md",
   "layer": "tester",
   "plain": "Blind T2: the Sounding on the periodic table, on a model other than the mirror.",
   "privacy": "none",
-  "status": "open",
+  "seam": "Returns CORROBORATED (blind, signed-out ChatGPT, no memory or project, blocks hash-verified); scoring FILED (courier session and mirror, both knew the predictions).",
+  "status": "closed",
   "type": "run"
 }

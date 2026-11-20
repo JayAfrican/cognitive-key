@@ -1,0 +1,12 @@
+{
+  "id": "task-rerun-mouth-shift",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/results/blind-runs-recheck-2026-11-20.md",
+  "owner": "mirror",
+  "plain": "Write a rerun pack for MOUTH (fixed meaning set; FAMILY verdict if ruled) and SHIFT ('night-shift work'), with false-negative kill lines.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

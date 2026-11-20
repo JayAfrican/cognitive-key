@@ -4,6 +4,8 @@
 >
 > **Test record:** **Not blind-tested.** 3 runs (001, 002, 004); run 4 was clean-context, with no corpus. It sorts: the runs reached different verdicts.
 >
+> **Latest:** **Blind, 2026-11-20 (T2):** LOAD-BEARING on the periodic table, on signed-out ChatGPT: the null case, on another model.
+>
 > **Custody:** The procedure is the mirror's; it hasn't had a custody pass.
 >
 > **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.

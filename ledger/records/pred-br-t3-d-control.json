@@ -1,5 +1,6 @@
 {
   "id": "pred-br-t3-d-control",
+  "body": "Verdict held (HABIT); the \"most operations null\" qualifier missed because nulls went into the fired table (defect D4).",
   "confidence": 75,
   "custody": "FILED",
   "date": "2026-11-20",
@@ -15,10 +16,10 @@
   "plain": "Passage D (plain control) comes back HABIT with most operations null.",
   "privacy": "none",
   "seam": "Sealed before the run; scoring by the mirror.",
-  "status": "open",
+  "status": "scored 2026-11-20",
   "type": "prediction",
   "verdict": {
     "vocabulary": "prediction",
-    "value": "OPEN"
+    "value": "HELD"
   }
 }

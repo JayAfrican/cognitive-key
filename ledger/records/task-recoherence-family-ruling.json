@@ -1,0 +1,12 @@
+{
+  "id": "task-recoherence-family-ruling",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/results/blind-runs-recheck-2026-11-20.md",
+  "owner": "jayarr",
+  "plain": "Rule on splitting Recoherence's TITLE ONLY into TITLE ONLY (homonyms) and FAMILY (a family of meanings with no exclusive floor).",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

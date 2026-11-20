@@ -1,0 +1,12 @@
+{
+  "id": "issue-rewrite-direction",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/results/blind-runs-results-2026-11-20.md §4",
+  "owner": "mirror",
+  "plain": "The rewrite step can quietly pick a direction ('inappropriate' became 'below'). Add: list the direction of any deviation as invented unless stated.",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

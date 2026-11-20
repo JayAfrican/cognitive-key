@@ -4,6 +4,8 @@
 >
 > **Test record:** **Blind-tested:** Campaign E, two clean runs on two models: a partial pass (10 of 30), with question 2 carrying it (CORROBORATED). **Logged runs:** 2. **Open:** the person test (Two Sentences).
 >
+> **Latest:** **Blind, 2026-11-20 (T1):** with the rewrite step, **3 of 3 rewrites came back** (Campaign E without it: 0 of 6).
+>
 > **Custody:** The five questions are RULED (2026-09-25), and so is the rewrite step (2026-10-03). This file is the procedure that runs them, written by the mirror.
 >
 > **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.

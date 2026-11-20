@@ -1,5 +1,6 @@
 {
   "id": "pred-br-t5-shift",
+  "body": "Stopped at C1: the pack paired a condition with a multi-cause symptom (defect D3).",
   "confidence": 60,
   "custody": "FILED",
   "date": "2026-11-20",
@@ -15,10 +16,10 @@
   "plain": "Jet lag / night-shift fatigue reaches at least C5 (circadian misalignment).",
   "privacy": "none",
   "seam": "Sealed before the run; scoring by the mirror.",
-  "status": "open",
+  "status": "scored 2026-11-20",
   "type": "prediction",
   "verdict": {
     "vocabulary": "prediction",
-    "value": "OPEN"
+    "value": "FAILED"
   }
 }

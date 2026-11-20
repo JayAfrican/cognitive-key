@@ -1,5 +1,6 @@
 {
   "id": "pred-br-t4-mouth",
+  "body": "Came back TITLE ONLY: no exclusive floor for a family of meanings. The verdict menu has no slot for that (recheck A).",
   "confidence": 75,
   "custody": "FILED",
   "date": "2026-11-20",
@@ -15,10 +16,10 @@
   "plain": "'Mouth' comes back THEME FOUND.",
   "privacy": "none",
   "seam": "Sealed before the run; scoring by the mirror.",
-  "status": "open",
+  "status": "scored 2026-11-20",
   "type": "prediction",
   "verdict": {
     "vocabulary": "prediction",
-    "value": "OPEN"
+    "value": "FAILED"
   }
 }

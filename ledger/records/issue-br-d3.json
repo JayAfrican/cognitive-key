@@ -1,0 +1,12 @@
+{
+  "id": "issue-br-d3",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/results/blind-runs-results-2026-11-20.md §4",
+  "owner": "mirror",
+  "plain": "T5-SHIFT paired a condition (jet lag) with a multi-cause symptom (fatigue). Use 'night-shift work'.",
+  "privacy": "none",
+  "status": "open",
+  "type": "issue"
+}

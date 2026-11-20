@@ -1,0 +1,18 @@
+{
+  "id": "claim-recoherence-verdict-split",
+  "body": "From the 2026-11-20 blind run: BAT (homonyms) and MOUTH (a family) both came back TITLE ONLY, and the model's own MOUTH text said the meanings 'share more than an accidental spelling'. This is master question 3 failing inside the tool: two things stated as one.",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/results/blind-runs-recheck-2026-11-20.md §3A",
+  "links": [
+    {
+      "rel": "derived_from",
+      "to": "test-br-t4-recoherence"
+    }
+  ],
+  "plain": "Recoherence's TITLE ONLY verdict covers two different results: homonyms (no relation) and family resemblance (meanings radiating from one prototype, with no exclusive floor). Split it into TITLE ONLY and FAMILY.",
+  "privacy": "none",
+  "status": "proposed: for his ruling",
+  "type": "claim"
+}

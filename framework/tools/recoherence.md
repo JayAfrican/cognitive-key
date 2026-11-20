@@ -4,6 +4,8 @@
 >
 > **Test record:** **Not blind-tested.** 4 runs in the corpus (symbol, game ×2, anchor) and 1 logged run (dissociation, THEME FOUND, 2026-10-15). **Open:** a blind known-answer run on "anxiety" (task-recoherence-anxiety-blind).
 >
+> **Latest:** **Blind, 2026-11-20 (T4):** BAT → TITLE ONLY (right); MOUTH → TITLE ONLY (expected THEME FOUND). It refused a family of meanings because the verdict menu has no slot for one (`claim-recoherence-verdict-split`).
+>
 > **Custody:** The name is RULED (his, 2026-09-20). The procedure is the mirror's; it hasn't had a custody pass.
 >
 > **Status of this file:** **RULED 2026-11-17 as his tool** ("Rule all six as my tools"). Each step stays open to correction when a test says so.

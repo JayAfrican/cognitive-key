@@ -1,5 +1,6 @@
 {
   "id": "task-blind-runs-1120",
+  "body": "Run 2026-11-19 US Central via a Claude courier session on signed-out ChatGPT; 10 of 12 predictions held; no kill line fired.",
   "custody": "FILED",
   "date": "2026-11-20",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "jayarr",
   "plain": "Run the five blind tests (about 9 fresh chats with no project and memory off) and paste each reply back with its label.",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "task"
 }
