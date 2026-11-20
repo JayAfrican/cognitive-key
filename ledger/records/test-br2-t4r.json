@@ -1,0 +1,12 @@
+{
+  "id": "test-br2-t4r",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-rerun-2026-11-20.md",
+  "layer": "tester",
+  "plain": "Blind rerun T4R: Recoherence with four verdicts on 'mouth' (expected FAMILY) and 'bat' (expected TITLE ONLY).",
+  "privacy": "none",
+  "status": "open",
+  "type": "run"
+}

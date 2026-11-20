@@ -1,5 +1,6 @@
 {
   "id": "issue-br-d3",
+  "body": "Fixed in tester/plans/blind-rerun-2026-11-20.md.",
   "custody": "FILED",
   "date": "2026-11-20",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "mirror",
   "plain": "T5-SHIFT paired a condition (jet lag) with a multi-cause symptom (fatigue). Use 'night-shift work'.",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "issue"
 }

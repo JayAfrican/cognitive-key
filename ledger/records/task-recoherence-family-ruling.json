@@ -1,5 +1,6 @@
 {
   "id": "task-recoherence-family-ruling",
+  "body": "Ruled: FAMILY added (claim-recoherence-verdict-split).",
   "custody": "FILED",
   "date": "2026-11-20",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "jayarr",
   "plain": "Rule on splitting Recoherence's TITLE ONLY into TITLE ONLY (homonyms) and FAMILY (a family of meanings with no exclusive floor).",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "task"
 }

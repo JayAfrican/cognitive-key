@@ -20,7 +20,7 @@
 
 **Test record:** four runs in the corpus (symbol, game ×2 amended, anchor) with different verdicts, so it is a screen, not a solvent. **None blind; none by a second operator.** Results are FILED.
 
-**The standing opponent is Wittgenstein** (family resemblance: some words have no common core). **TITLE ONLY is a legitimate success, not a failure.** Check prior art first: run 3 missed Suits on *game* across two descents.
+**The standing opponent is Wittgenstein** (family resemblance: some words have no common core). **TITLE ONLY and FAMILY are legitimate successes, not failures.** Check prior art first: run 3 missed Suits on *game* across two descents.
 
 ## The procedure
 
@@ -32,7 +32,12 @@
 5. **No solvent terms, and plain words:** the theme must be sayable in words none of the senses invented.
 6. **Count inclusion:** how many senses the floor covers. One genuine extension per word has been the pattern so far; name it rather than forcing it in.
 7. **Name the axis:** the one variable the senses take different values of. Check whether the **sign flips** across senses; in the anchor run that was the finding.
-8. **Verdict:** **THEME FOUND** · **TITLE ONLY** (no floor that both includes the senses and excludes non-members) · **UNSOUNDED** (couldn't locate it; the operator ran out of angles. Not a verdict against the word).
+8. **Verdict** *(four verdicts since 2026-11-20, RULED)*:
+   - **THEME FOUND**: a floor that includes the senses and excludes non-members.
+   - **FAMILY**: the senses grow by extension from one prototype (a starting sense), but no floor short of the prototype itself both includes them and excludes non-members. This is Wittgenstein's family resemblance, now with its own name. *Example: "mouth".*
+   - **TITLE ONLY**: no relation beyond the spelling; separate words that merged. *Example: "bat".*
+   - **UNSOUNDED**: couldn't locate it; the operator ran out of angles. Not a verdict against the word.
+   - *Why four:* the 2026-11-20 blind run showed TITLE ONLY was covering two different results, master question 3 failing inside the tool.
 
 ## Two brakes that apply to every run
 

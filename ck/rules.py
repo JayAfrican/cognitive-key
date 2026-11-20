@@ -19,7 +19,7 @@ LAYERS = {"framework", "tester"}
 # values must start with one of its own terms.
 VOCABULARIES = {
     "screen": ["SUPPORTED", "OVERSTATED", "UNSUPPORTED", "REFUTED", "NOT EVEN WRONG", "CONTAMINATED", "NOT LOCATED"],
-    "recoherence": ["THEME FOUND", "TITLE ONLY", "UNSOUNDED"],
+    "recoherence": ["THEME FOUND", "FAMILY", "TITLE ONLY", "UNSOUNDED"],
     "inversion": ["TRUE DICHOTOMY", "SINGLE AXIS", "TWO INDEPENDENT DIMENSIONS", "UNRESOLVED", "TITLE-LEVEL COINCIDENCE"],
     "jargon": ["HABIT", "AIMED", "IMPRECISION", "MIXED"],
     "axis": ["AXIS FOUND", "NO AXIS", "STOPPED AT"],

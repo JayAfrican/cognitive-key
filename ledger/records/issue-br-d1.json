@@ -1,5 +1,6 @@
 {
   "id": "issue-br-d1",
+  "body": "Fixed in tester/plans/blind-rerun-2026-11-20.md.",
   "custody": "FILED",
   "date": "2026-11-20",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "mirror",
   "plain": "Blind-run kill lines only catch over-finding; none catches a tool refusing a true positive. Add false-negative kill lines.",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "issue"
 }

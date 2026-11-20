@@ -1,0 +1,12 @@
+{
+  "id": "test-br2-t5r",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-rerun-2026-11-20.md",
+  "layer": "tester",
+  "plain": "Blind rerun T5R: Axis Search on jet lag vs working night shifts, with the pairing fixed (expected at least C3).",
+  "privacy": "none",
+  "status": "open",
+  "type": "run"
+}

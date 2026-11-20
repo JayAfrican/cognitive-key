@@ -1,0 +1,24 @@
+{
+  "id": "pred-br2-mouth",
+  "confidence": 70,
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-rerun-2026-11-20.md",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-br2-t4r"
+    }
+  ],
+  "plain": "'Mouth' comes back FAMILY.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "status": "open",
+  "type": "prediction",
+  "verdict": {
+    "vocabulary": "prediction",
+    "value": "OPEN"
+  }
+}

@@ -36,7 +36,7 @@
 **Verdict vocabularies never mix.** Enforced in code.
 - **Stopping Engine:** SUPPORTED · OVERSTATED · UNSUPPORTED · REFUTED · NOT EVEN WRONG · CONTAMINATED
 - **Inversion:** TRUE DICHOTOMY · SINGLE AXIS · TWO INDEPENDENT DIMENSIONS · UNRESOLVED · TITLE-LEVEL COINCIDENCE
-- **Recoherence:** THEME FOUND · TITLE ONLY · UNSOUNDED
+- **Recoherence:** THEME FOUND · FAMILY · TITLE ONLY · UNSOUNDED *(FAMILY added 2026-11-20, RULED)*
 - **Jargon Breaker:** HABIT · IMPRECISION · AIMED. AIMED carries an intent tier, I0–I4.
 - **Sounding:** its own floor verdicts
 - **Axis Search:** stops at the failing check

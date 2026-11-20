@@ -1,5 +1,6 @@
 {
   "id": "issue-br-d6",
+  "body": "Fixed in tester/plans/blind-rerun-2026-11-20.md.",
   "custody": "FILED",
   "date": "2026-11-20",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "mirror",
   "plain": "Axis Search scoring doesn't say whether the opening line or the final answer counts when they disagree.",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "issue"
 }
