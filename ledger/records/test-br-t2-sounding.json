@@ -1,0 +1,12 @@
+{
+  "id": "test-br-t2-sounding",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-runs-2026-11-20.md",
+  "layer": "tester",
+  "plain": "Blind T2: the Sounding on the periodic table, on a model other than the mirror.",
+  "privacy": "none",
+  "status": "open",
+  "type": "run"
+}

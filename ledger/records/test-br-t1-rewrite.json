@@ -1,0 +1,18 @@
+{
+  "id": "test-br-t1-rewrite",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-runs-2026-11-20.md",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tests",
+      "to": "claim-frame-adds"
+    }
+  ],
+  "plain": "Blind T1: does 'then rewrite it' bring back the fix the five questions crowded out? 3 chats, Campaign E sentences.",
+  "privacy": "none",
+  "status": "open",
+  "type": "run"
+}

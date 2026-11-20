@@ -1,0 +1,12 @@
+{
+  "id": "test-br-t3-jargon",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-runs-2026-11-20.md",
+  "layer": "tester",
+  "plain": "Blind T3: the Jargon Breaker on four passages, including a plain control.",
+  "privacy": "none",
+  "status": "open",
+  "type": "run"
+}

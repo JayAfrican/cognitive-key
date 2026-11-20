@@ -1,5 +1,6 @@
 {
   "id": "task-recoherence-anxiety-blind",
+  "body": "Dropped 2026-11-20: not a clean known-answer test. Andrews 2022 shows different biology, but Recoherence asks whether the senses share a theme, and they probably do. Replaced by T4 (mouth / bat) in blind-runs-2026-11-20.md.",
   "custody": "FILED",
   "date": "2026-11-17",
   "decided_by": "mirror",
@@ -7,6 +8,6 @@
   "owner": "mirror",
   "plain": "Blind Recoherence run on 'anxiety', a known-answer test (Andrews 2022 says two things). Needs a session with no project attached.",
   "privacy": "none",
-  "status": "open",
+  "status": "closed",
   "type": "task"
 }

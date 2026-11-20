@@ -1,0 +1,12 @@
+{
+  "id": "task-blind-runs-1120",
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-runs-2026-11-20.md",
+  "owner": "jayarr",
+  "plain": "Run the five blind tests (about 9 fresh chats with no project and memory off) and paste each reply back with its label.",
+  "privacy": "none",
+  "status": "open",
+  "type": "task"
+}

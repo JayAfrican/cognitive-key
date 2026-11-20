@@ -1,0 +1,24 @@
+{
+  "id": "pred-br-t3-c-imprecision",
+  "confidence": 55,
+  "custody": "FILED",
+  "date": "2026-11-20",
+  "decided_by": "mirror",
+  "doc_ref": "tester/plans/blind-runs-2026-11-20.md §7",
+  "layer": "tester",
+  "links": [
+    {
+      "rel": "tested_by",
+      "to": "test-br-t3-jargon"
+    }
+  ],
+  "plain": "Passage C comes back IMPRECISION.",
+  "privacy": "none",
+  "seam": "Sealed before the run; scoring by the mirror.",
+  "status": "open",
+  "type": "prediction",
+  "verdict": {
+    "vocabulary": "prediction",
+    "value": "OPEN"
+  }
+}
